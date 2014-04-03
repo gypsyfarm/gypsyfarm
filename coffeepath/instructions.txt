@@ -1,0 +1,60 @@
+<script type="text/javascript" src='http://www.scribd.com/javascripts/view.js'></script> 
+  <div id='embedded_flash' > 
+    <a href='http://www.scribd.com'>Scribd</a>
+  </div>
+
+<script type="text/javascript">
+  var scribd_doc = scribd.Document.getDocFromUrl('http://lib.store.yahoo.net/lib/paulgraham/onlisp.ps', 'PUT-YOUR-SCRIBD-PUBLISHER-ID-HERE'); 
+  scribd_doc.addParam('height', 600);
+  scribd_doc.addParam('width', 400);
+  scribd_doc.addParam('page', 10);
+  scribd_doc.addParam('public', true);
+  scribd_doc.write('embedded_flash');  
+</script>
+
+
+javascript:poptastic('../scribd_example3.php?document_id=2182654&access_key=key-1cj28r4ggokmwo6qac4u');
+http://www.coffeepath.org/scribd_example3.php?document_id=2182654&rst_id=18&access_key=key-1cj28r4ggokmwo6qac4u
+
+<script type="text/javascript" src='http://www.scribd.com/javascripts/view.js'></script> 
+<!-- The contents of this div will get replaced with the iPaper -- >
+  <div id='embedded_flash' > 
+    <a href='http://www.scribd.com'>Scribd</a>
+  </div>
+
+<script type="text/javascript">
+  var scribd_doc = scribd.Document.getDoc(2182654, 'key-1cj28r4ggokmwo6qac4u'); 
+  scribd_doc.write('embedded_flash');  
+</script>
+
+
+Below is a specification of the scribd.Document class, which you use to create and customize iPaper documents. 
+
+Constructors 
+scribd.Document.getDoc ( document_id , access_key ) 
+This constructor gets an existing iPaper document. You'll need the document_id and access_key to embed the document. You can get these from the Scribd API if you're using it or from the doc's page on Scribd. 
+scribd.Document.getDocFromUrl ( url , scribd_publisher_id ) 
+This constructor creates an iPaper from the URL of a document. To get the required scribd_publisher_id, you'll need to create a Scribd API account. The URL needs to be a document type supported by Scribd, like a PDF, not a normal HTML webpage. 
+Public instance methods 
+write ( element_id ) 
+This method actually embeds the iPaper. It replaces the contents of the element that has ID element_id with the iPaper. For cross-browser compatibility, we recommend using a DIV tag or other block-level element with this method. 
+addParam ( key , value ) 
+This is a general-purpose method which allows you to add parameters that customize the behavior of iPaper. See the parameter section below for the possible parameters. 
+Parameters 
+These are the keys that can be passed to the addParam instance method. 
+
+
+height => integer 
+The height of the iPaper, in pixels. If this is not sepecified, iPaper will attempt to size itself correctly for the webpage it's embedded in. 
+width => integer 
+The width of the iPaper, in pixels. If this is not sepecified, iPaper will attempt to size itself correctly for the webpage it's embedded in. 
+public => boolean 
+Whether to make the document public on Scribd. This parameter is only for iPapers created with the getDocFromUrl constructor. With iPapers created with the getDoc constructor it will have no effect. 
+page => integer 
+You can use this to scroll the iPaper to a default start page. It defaults to the first page. 
+mode => string 
+The iPaper view mode that should be chosen by default. Can be 'list' (the default), 'book' (two-page spread), 'slideshow' (the default for presentations), or 'tile'. 
+my_user_id => string 
+If you run a user-generated content site, you can use this parameter to very easily integrate your user authentication system into Scribd. For a full explanation of how this works, please see the Scribd API documentation. 
+Example 
+Here's another example of an iPaper embed with more options set. 

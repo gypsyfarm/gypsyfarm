@@ -1,0 +1,4 @@
+reg x links
+
+
+http://www.devshed.com/c/a/JavaScript/Understanding-the-JavaScript-RegExp-Object/

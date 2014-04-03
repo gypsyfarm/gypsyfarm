@@ -1,0 +1,169 @@
+BUTTON
+{
+   BACKGROUND-COLOR:#9bbcc2;
+   FONT-SIZE: 8pt;
+   HEIGHT:20px;
+   WIDTH: 40px;
+}
+INPUT
+{
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+}
+TABLE
+{
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+}
+SELECT
+{
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+}
+TEXTAREA
+{
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+}
+.noprint {
+	display: None;
+}
+.formTitle
+{
+   COLOR: white;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 10pt;
+   FONT-WEIGHT: bold;
+}
+.formSubTitle
+{
+   COLOR: white;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+}
+.genText
+{
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+}
+.genTextBold
+{
+   FONT-FAMILY: Arial, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+   TEXT-DECORATION: none;
+}
+
+
+.mainPageDiv
+{
+   POSITION:absolute;
+   TOP:74px;
+   LEFT:135px;
+   WIDTH:590px;
+   HEIGHT:150px;
+   Z-INDEX:75;
+}
+.multiRecLstDiv
+{
+   BORDER-BOTTOM: gray 1px solid;
+   BORDER-LEFT: gray 1px solid;
+   MARGIN: 0px;
+   OVERFLOW: auto;
+   PADDING-TOP: 0px;
+   PADDING-BOTTOM: 0px;
+   PADDING-LEFT: 0px;
+   PADDING-RIGHT: 0px;
+   WIDTH: auto;
+}
+.detailLink
+{
+   BACKGROUND:#9BBCC2;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+   VISIBILITY: hidden;
+   POSITION:ABSOLUTE;
+   LEFT:300px;
+   WIDTH:300px;
+   Z-INDEX:100;
+   BORDER-LEFT-COLOR: gray;
+   BORDER-TOP-COLOR: gray;
+   BORDER-RIGHT-COLOR: white;
+   BORDER-BOTTOM-COLOR: white;
+   BORDER-STYLE: solid;
+   BORDER-WIDTH: 1px;
+   PADDING-TOP:2px;
+   PADDING-BOTTOM:2px;
+   PADDING-LEFT:4px;
+   PADDING-RIGHT:4px;
+}
+
+
+.generalMenu
+{
+   COLOR: #cccccc;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+   LINE-HEIGHT: 13pt;
+   TEXT-DECORATION: none;
+}
+.generalMenu:hover
+{
+   COLOR: #ffffff;
+   TEXT-DECORATION: underline;
+}
+.menuBar
+{
+   COLOR: black;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 10pt;
+   FONT-WEIGHT: bold;
+   TEXT-DECORATION: none;
+   Z-INDEX:80;
+}
+.menuBarOptions
+{
+   COLOR: black;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+   LINE-HEIGHT: 12pt;
+   TEXT-DECORATION: none;
+}
+.menuBarOptions:hover
+{
+   COLOR: lemonchiffon;
+   TEXT-DECORATION: underline;
+}
+.appTitle
+{
+   COLOR: Black;
+   FONT-FAMILY: Arial Black, Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 12pt;
+   FONT-STYLE: italic;
+   LINE-HEIGHT: 12pt;
+   TEXT-DECORATION: none;
+   TEXT-ALIGN: center;
+}
+.required
+{
+	COLOR:Red;
+	FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8 pt;
+   FONT-WEIGHT: normal;
+}
+.blueBold
+{
+	COLOR:blue;
+	FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8 pt;
+   FONT-WEIGHT: bold;
+}

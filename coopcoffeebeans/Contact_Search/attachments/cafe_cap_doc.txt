@@ -1,0 +1,32 @@
+Development directory:
+Purpose: Staff use only.
+Can be used for testing, holding code, and adminstration of mysql database.
+
+Note: area is protected with .httaccess (a linux operating system security
+      feature:
+
+Current id to access is: id: workerbee1 password: beehead1
+alternate id is   gochickengo  password is rooster
+
+
+Find file called .httaccess
+duplicate "require user workerbee1" line
+change workerbee1 to new user.
+
+AuthUserFile /home/websites/www.cooperativecoffees.com/development/myadmin/.htpasswd
+AuthGroupFile /dev/null
+AuthName ByPassword
+AuthType Basic
+<Limit GET POST>
+require user workerbee1
+</Limit>
+
+to add new id's, go to http://www.cooperativecoffees.com/cgi-bin/password/htpasswd.pl
+
+type in new user entered file .httaccess file, new password
+and use admin password of beanhead9
+
+Administration of mysql database:
+Use: http://www.cooperativecoffees.com/development/myadmin/
+
+

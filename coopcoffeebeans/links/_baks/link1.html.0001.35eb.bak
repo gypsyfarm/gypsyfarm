@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Link1 : Desc Feature</title>
+  <link type="text/css" rel="stylesheet" href="general.css">
+</head>
+<body bgcolor="#33ff00">
+<center>
+<div style="background-color: WhiteSmoke;"><a href="../index.php">Back
+to Regular Menu.</a>
+<br>
+</div>
+</center>
+<h3>Travel Schedule</h3>
+<br>
+Monika<br>
+Bill<br>
+Nicaragua<br>
+Mexico <br>
+Guatemala<br>
+Ethiopia<br>
+Kenya<br>
+<br>
+<p> Hi Bill:<br>
+I'm not 100% happy with the way I coded this but heck it works. I may
+make changes but want to talk to you first. I've only put this on the
+admin menu right now. Right now I have have it set for 5 links. I can
+add as many as you like. To get a new link there must be two files in
+the directory named "links" under the www directory. The first file
+must be called linkX.html and the second file must be called
+linkx.desc. The x should be replaced with a number from 1 to 5. The
+html file is of course just an html web page. The second file is the
+description which will be used to create the link to the page. DO NOT
+MAKE THIS TOO LONG. If you put 1000 charactors, they will all display
+in the menu. </p>
+<b>Example:<br>
+</b> link1.html Has a file called link1.desc. <br>
+Inside link1.desc are the charactors: "New Feature!" <br>
+This can be created with any text editor, including notepad. <br>
+Talk with you tomorrow!
+</body>
+</html>

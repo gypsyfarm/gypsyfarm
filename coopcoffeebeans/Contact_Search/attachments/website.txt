@@ -1,0 +1,37 @@
+  25345760  is account number for verisign
+
+
+gypsyfarm.com Back-order this name
+
+
+Registrant:
+Gypsy Farm (GYPSYFARM-DOM)
+Rt 1 Box 245B
+Mauk, GA 31058
+US
+
+Domain Name: GYPSYFARM.COM
+
+Administrative Contact:
+Gypsy Farm (NP608-ORG) goshawk@GNAT.NET
+Rt 1 Box 245B
+Mauk, GA 31058
+US
+912 862-2229
+Technical Contact:
+SiteProtect Web Services (AD2749-ORG) administrator@SITEPROTECT.COM
+SiteProtect Web Services
+200 W. Adams St. Suite 1001
+Chicago, IL 60606
+US
+312-236-2132 fax: 312-236-1958
+
+Record expires on 21-Nov-2003.
+Record created on 21-Nov-1999.
+Database last updated on 6-Nov-2003 13:02:59 EST.
+
+Domain servers in listed order:
+
+NS.SITEPROTECT.COM 64.26.0.23
+NS2.SITEPROTECT.COM 64.26.38.2
+

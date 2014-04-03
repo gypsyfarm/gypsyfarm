@@ -1,0 +1,325 @@
+body, p 	{
+	font-family: arial;
+	 color: #000000;
+	 background-color: #FFFFFF; 
+	}
+
+a:link  	  {   	color: #a5a5a5; }
+a:visited 	  {  	color: #FFFFFF; }
+a:active 	  {  	color: #FFFFFF; }
+ 
+
+#menu
+{
+    font-family: arial;
+    color: #a5a5a5;
+    font-size: 15:px;
+}
+ 
+#menu li a
+{
+float:left;
+}
+
+
+div.float
+{
+    float: left;
+}
+
+div.floatr
+{
+    float: right;
+}
+div.spacer
+{
+    clear: both;
+}
+
+div.row
+{
+    background-color: #E7EFF4;
+    padding: 8px 8px 1px 8px;
+}
+
+div.altrow
+{
+    background-color: #fff;
+    padding: 8px 8px 1px 8px;
+}
+
+div.center1
+{
+	width: 75%;
+	font-family: arial;
+        color: #a5a5a5;
+        # font-weight: bold;
+        font-size: 16.0px;
+}
+
+div.padonly
+{
+    padding: 8px 8px 1px 8px;
+}
+ 
+ 
+input.btn1
+{
+background-color: #ff0;
+} 
+ 
+ 
+.ccbtn
+{
+    color: #000;
+    font-family: arial;
+     font-size:large;
+    font-style:italic;
+    background-color: #ff0;
+    border: 1px outset #E7EFF4;
+    cursor: pointer;
+    height: 3.5em;
+    width: 15em;
+}
+
+#nav {
+ 	margin: 0;
+ 	padding: 10px 0 0 46px;
+ 	list-style: none;
+	}
+	
+ 	
+#nav li {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 85%;
+	}
+#nav a {
+ 	margin: 0 1px 0 0;
+	padding: 4px 8px;
+  	color: #333;
+ 	text-decoration: none;
+ 	border: 1px solid #9B8748;
+ 	border-bottom: none;
+   	background: #E89450 url(img/off_bg.gif) repeat-x top left;
+	}
+#nav a:hover, body#intro #t-intro a {
+	color: #333;
+	padding-bottom: 5px;
+	border-color: #727377;
+	background: #fff url(img/on_bg.gif) repeat-x top left;	
+}
+
+
+
+
+
+
+
+.n1btn
+{
+    color: #000;
+    font-family: arial;
+    font-size:large;
+    font-style:italic;
+    background-color: #ff0;
+    border: 1px outset #E7EFF4;
+    cursor: pointer;
+}
+
+.yeller
+{
+    color: #000;
+    font-family: arial;
+   font-size: 22pt;
+    background-color:  #ff0;
+   border: 1px outset #9AC68D;
+    cursor: pointer;
+    height: 4.5em;
+    width: 10em;
+    
+}
+ 
+
+.outeryellow {
+    border:3px solid yellow;
+}
+
+.innerblack {
+    border:1px outset black;
+
+}
+
+
+.yeller2
+{
+   font-size: 31pt;
+   
+}
+ 
+.corners
+{
+    font-family: arial;
+   color: #ffffff;
+     font-size: 7pt;
+}
+
+ 
+ .whiteone
+{
+    font-family: arial;
+    color: #ffffff;
+    font-size: 12:pt;
+}
+ 
+ 
+  .whitetwo
+{
+    font-family: arial;
+    color: #ffffff;
+   font-weight: bold;
+    font-size: 20.8px;
+    text-align: center;
+}
+
+
+  .steptwo
+{
+    font-family: arial;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 12.8px;
+    text-align: center;
+}
+
+  .whitethree
+{
+    font-family: arial;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 12.8px;
+    text-align: center;
+}
+
+  .whitefour
+{
+    font-family: arial;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 12.8px;
+    text-align: left;
+    margin-left: 10%;
+}
+ 
+
+.greyone
+{
+    font-family: arial;
+    color: #a5a5a5;
+   # font-weight: bold;
+     font-size: 20:px;
+ 
+}
+
+.greytwo
+{
+    font-family: arial;
+    color: #a5a5a5;
+     font-size: 14:px;
+ 
+}
+
+.greycourier
+{
+    font-family: arial;
+    color: #a5a5a5;
+     font-size: 20:px;
+ 
+}
+
+.greynew
+{
+    font-family: arial;
+    color: #a5a5a5;
+     font-size: 20:px;
+ 
+}
+
+.greylinks
+{
+    font-family: arial;
+    color: #a5a5a5;
+     font-size: 20:px;
+ 
+}
+
+.overaddress
+{
+    font-family: arial;
+    color: #a5a5a5;
+     font-size: 12:px;
+ 
+}
+
+
+.address
+{
+    font-family: arial;
+    color: white;
+     font-size: 10pt;
+ 
+}
+
+
+.grey_heading
+{
+    font-family: arial;
+    color: #a5a5a5;
+    font-weight: bold;
+    font-size: 26pt;
+}
+
+
+
+.grey_heading2
+{
+    font-family: arial;
+    color: #a5a5a5;
+    font-weight: bold;
+    font-size: 26pt;
+}
+ 
+.yellow_heading_big
+{
+    font-family: arial;
+    color: #edff04;
+    font-weight: bold;
+    font-size: 56pt;
+}
+
+
+
+.yellow_heading
+{
+    font-family: arial;
+    color: #edff04;
+    font-weight: bold;
+    font-size: 36pt;
+}
+
+.yellow_link
+{
+    font-family: arial;
+    color: #edff04;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+  .center
+{
+    font-family: arial;
+    text-align: center;
+}
+ 
+ 

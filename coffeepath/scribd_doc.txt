@@ -1,0 +1,107 @@
+javascript:poptastic('../scribd_example5.php?document_id=12334032&access_key=key-t8h8b5gd9gel33m7v3q&rst_id=&item_code=SAA');
+
+
+  echo "<div id='embedded_flash' >"; 
+   echo " <a href='http://www.scribd.com'>Scribd</a>";
+  echo " </div>";
+
+  echo '<script type="text/javascript"> ';
+  echo "var scribd_doc = scribd.Document.getDoc('$document_id', '$access_key');"; 
+  # echo " scribd_doc.addParam('height', 700);";
+ #echo " scribd_doc.addParam('width', 600);";
+  echo " scribd_doc.write('embedded_flash');";  
+echo " </script>";
+
+
+<script type='text/javascript'
+src='http://www.scribd.com/javascripts/view.js'></script>
+<div id='embedded_flash'><a href="http://www.scribd.com"></a></div>
+<script type="text/javascript">
+    var scribd_doc = scribd.Document.getDoc(11304955,
+'2qv3sw1nhkcxserm2p5qc' );
+    var oniPaperReady = function(e){
+      // scribd_doc.api.setPage(1);
+    }
+    scribd_doc.addParam( 'jsapi_version', 1 );
+    scribd_doc.addEventListener( 'iPaperReady', oniPaperReady );
+    scribd_doc.write( 'embedded_flash' );
+</script> 
+
+
+
+
+
+
+ 	
+		
+jpablo   	
+View profile
+	 More options Jan 24, 9:24 am
+From: jpablo <juan.pablo.villave...@gmail.com>
+Date: Sat, 24 Jan 2009 06:24:38 -0800 (PST)
+Local: Sat, Jan 24 2009 9:24 am
+Subject: Scribd document does not load using "getDoc" constructor
+Reply | Reply to author | Forward | Print | Individual message | Show original | Report this message | Find messages by this author
+Hi, I starting to use scribd in a website (www.omnisciens.com) but
+the JS API seems to be failing to load a previously uploaded doc.
+
+I uploaded the "Onlisp" sample document mentioned in the scribd
+examples, I've got the doc ID 11304955, then I created a page with
+this
+code inside:
+
+<script type='text/javascript'
+src='http://www.scribd.com/javascripts/view.js'></script>
+<div id='embedded_flash'><a href="http://www.scribd.com"></a></div>
+<script type="text/javascript">
+    var scribd_doc = scribd.Document.getDoc(11304955,
+'2qv3sw1nhkcxserm2p5qc' );
+    var oniPaperReady = function(e){
+      // scribd_doc.api.setPage(1);
+    }
+    scribd_doc.addParam( 'jsapi_version', 1 );
+    scribd_doc.addEventListener( 'iPaperReady', oniPaperReady );
+    scribd_doc.write( 'embedded_flash' );
+</script>
+
+(you can check it here: http://www.omnisciens.com/test.html)
+
+but the document does not load. Is something wrong in the constructor
+call? the API key provided by Scribd is "2qv3sw1nhkcxserm2p5qc", I
+double checked it, and the sample code is the code included in the
+scribd example page. If I use the "getDocFromUrl" constructor
+everything goes fine, but I need the getDoc because the docs are
+already loaded.
+
+Thanks in advance for your help.
+
+Juan Pablo Villaverde
+jpa...@omnisciens.com
+http://www.omnisciens.com
+
+    Reply    Reply to author    Forward  
+		
+		
+		
+
+	
+		
+Jared Friedman   	
+View profile
+	 More options Jan 24, 5:49 pm
+From: Jared Friedman <ja...@scribd.com>
+Date: Sat, 24 Jan 2009 14:49:47 -0800
+Local: Sat, Jan 24 2009 5:49 pm
+Subject: Re: [scribd-platform-talk] Scribd document does not load using "getDoc" constructor
+Reply | Reply to author | Forward | Print | Individual message | Show original | Report this message | Find messages by this author
+Hi Juan,
+
+When you use the scribd.Document.getDoc method, the second parameter
+needs to be the access key for the document, not your API key.  For
+example, the access key for this doc is "key-1g9mj52nmq828prwaema", so
+the call should be:
+
+var scribd_doc = scribd.Document.getDoc(11304955, 'key-1g9mj52nmq828prwaema' );
+
+You can retrieve the access keys for all your docs using the
+server-side Scribd API. 
