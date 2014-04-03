@@ -1,0 +1,364 @@
+ WeberDev.com  	PHP and MySQL Code  	
+
+LOG IN
+BEGINNER GUIDES  |  PHP CLASSES  |  CODE SEARCH  |  ARTICLES SEARCH  |  PHP FORUMS  |  PHP MANUAL  |  PHP FUNCTIONS LIST  |  WEB SITE TEMPLATES
+Start typing to search for PHP and MySQL Code Snippets and Articles 	Search
+		
+Submit a code Example / Snippet 	Submit Your Code 	
+Search Engine Optimization Monitor 	SEO Monitor 	
+Web Site UpTime Monitor 	UpTime Monitor 	
+WeberDev's Monthly code contest 	PHP Code Contest 	
+Your Personal Examples List 	My Favorite Examples 	
+Your Personal Articles List 	My Favorite Articles 	
+Edit Account Info 	Update Your Profile 	
+	
+	
+Services and Tools	
+Search	
+Downloads	
+My WeberDev	
+SEO Data Monitor Service
+Uptime Monitor Service
+What is my IP?
+PHP Code Search
+Web Site Template Search
+PHP
+MySQL
+Apache
+Update Account Info
+Account Activation
+Register
+Contact Us
+About Us
+Terms Of Use
+Privacy Commitment
+More Weber Sites
+	PHP Code Search 	
+	Web Development Forums 	
+	Learn MySQL Playing Trivia 	
+	PHPBB2 Templates 	
+	Web Development Index 	
+	PHP Web Logs (BLogs) 	
+	Web Development Resources 	
+	Web Development Content 	
+Recommended Links
+	PHPClasses 	
+	PHP Editor 	
+	PHP Jobs 	
+	Vision.To Design 	
+	Ajax Tutorials 	
+	PHP Programming Help 	
+	PHP/MySQL Programming 	
+	Webmaster Resources 	
+	Webmaster Forum 	
+	XML meta language 	
+	website builder 	
+Best Affiliates
+	php-code-search	32%	
+	NewExamplesRSS	8%	
+	NewArticlesRSS	5%	
+	MyYahoo	3%	
+	OSContent	3%	
+	CYGAD's WebDevelopment	1%	
+	totallyPHP	1%	
+	Google Reader	1%	
+	BotSpotter	1%	
+	Become an Affiliate	
+Recommended
+	Submit Site 	
+	Forex Trading Online forex trading platform 	
+		
+
+Go Back 		Add a Comment 		Send this example to a friend 		Add this Article to your personal favoritest for easy future access to your favorite Code Examples and Articles. 		Submit a code example 		Print this code example.
+BACK 		ADD A COMMENT 		SEND TO A FRIEND 		ADD TO MY FAVORITES 		ADD CODE EXAMPLES 		PRINT
+PHP Code Examples 	Submit your own code snippets Latest Code Examples RSS Feed
+Title : 	PHP classes used to connect to MySQL like is done with ADO in VB.
+Categories : 	Databases, MySQL, PHP Classes 	Click here to Update Your Picture
+David Perez
+Date : 	Mar 19th 2003
+Grade : 	4 of 5 (graded 10 times)
+Viewed : 	11361
+File : 	No file for this code example.
+Images : 	No Images for this code example.
+Search : 	More code by David Perez 	
+Action : 	Grade This Code Example 	
+Tools : 	My Examples List 	
+		
+Code
+
+  	Submit your own code examples 
+ 
+
+All we need to work with MySQL like MS VB in PHP are Two classes.
+
+MysqlCnx (VB ADODB.Connection replacement) needs 3 parameters :
+
+host = MySQL Server name or IP
+user = User with privileges to access the server
+pass = User MySQL password
+
+IT has two functions : open and close.
+
+The connection to the database server is not set for a specific database
+on the server, this means that this class can be used once for many
+databases like is done in VB.
+
+<?
+//$PHP class: clases.php,v 1.1 2004/08/05 00:09:00 dperez@negocisodehoy.com Exp $
+
+class MysqlCnx // This class provide a mysql conection {
+var $cnx; //Conection Status
+var $host; //MySQL Host
+var $user; //User for MySQL Server
+var $pass; //Password for MySQL Server
+var $port; //Port where MySQL Listen
+
+function MysqlCnx() //Setting the Deafults
+{
+$this->cnx = null;
+$this->host = "localhost";
+$this->user = "root";
+$this->pass = "";
+$this->port = 3306;
+}
+
+function open() //Open the Conection, if not success the script stop
+{
+$this->cnx = mysql_connect($this->host . ":" .
+$this->port,$this->user,$this->pass) or die ("Can't Open Conection to " .
+$this->host);
+}
+
+function close() //Close the conection
+{
+mysql_close($this->cnx);
+}
+}
+?>
+
+The second class, MysqlRecordSet, is a replacement for VB ADODB.Recordset,
+so we need : number of rows, the fields, EOF, BOF, position and the result
+to be able to use the recordset like we do in VB.
+
+<?
+class MysqlRecordSet //This class provide the Record Set Functionality {
+var $numFil; //Number of rows in the query result
+var $numCol; //Number of cols in the query result
+var $afeFil; //Number of Fileds afected on a Insert, Update or Delete query
+var $FillName; //Name of Field
+var $datos; //Array of Fields
+var $posicion; //Record Set Pointer
+var $EOF; //End of File Status
+var $BOF; //Begin of File Status
+var $result; //Query Result Status
+var $dbname; //Name of Data Base for query
+var $cnx; //Conection to use
+var $sql; //SQL instruction
+
+function MysqlRecordSet()
+{
+$this->EOF = true;
+$this->BOF = false;
+$this->numFil = 0;
+$this->numCol = 0;
+$this->afeFil = 0;
+$this->FillName = "";
+}
+
+function open()
+{
+mysql_select_db($this->dbname,$this->cnx) or die ("Can't Select database ". $this->dbname . "trought this " . $this->cnx . " Cnx Notify Error # E01". mysql_error());
+$this->result = mysql_db_query($this->dbname, $this->sql, $this->cnx) or die ("Can't Query " . $this->sql . " Notify Error #e02");
+@$this->numFil = mysql_num_rows($this->result);
+@$this->afeFil = mysql_affected_rows($this->result);
+@$this->numCol = mysql_num_fields($this->result);
+if ($this->numFil<=1)
+{
+$this->EOF = true;
+}
+else
+{
+$this->EOF = false;
+}
+$this->posicion = 0;
+}
+
+function execute()
+{
+$this->open($this->dbname, $this->sql, $this->cnx);
+}
+
+function getFieldName($pos)
+{
+$this->FillName = "";
+$this->FillName = mysql_field_name($this->result,$pos);
+}
+
+function getReg()
+{
+@mysql_data_seek($this->result,$this->posicion);
+$this->datos = null;
+$this->datos = mysql_fetch_array($this->result);
+}
+
+function getObj()
+{
+@mysql_data_seek($this->result,$this->posicion);
+return mysql_fetch_object($this->result);
+}
+
+function moveFirst()
+{
+$this->posicion = 0;
+$this->EOF = false;
+$this->getReg();
+}
+
+function moveLast()
+{
+$this->posicion = $this->numFil-1;
+$this->EOF = false;
+$this->getReg();
+}
+
+function moveNext()
+{
+if ($this->posicion < $this->numFil-1)
+{
+$this->posicion++;
+$this->getReg();
+}
+else
+{
+$this->EOF = true;
+}
+}
+
+function movePrevius()
+{
+if ($this->posicion > 0)
+{
+$this->posicion--;
+$this->getReg();
+}
+else
+{
+$this->BOF = true;
+}
+}
+
+function find($campo, $valor)
+{
+$this->moveFirst();
+$encontrado = false;
+while ($this->EOF!=true)
+{
+if ($this->datos["$campo"]==$valor)
+{
+$encontrado = true;
+break;
+}
+$this->moveNext();
+}
+return $encontrado;
+}
+
+function close()
+{
+@mysql_free_result($this->result);
+}
+}// end class
+?>
+You can save a lot of time programming database driven websites because you will be able to handle control structures like :
+
+<?
+while($rst->EOF!=true) ...
+?>
+
+lets see an example to fill a select input with the option taken from a table, I include the class Combo that you can see in http://www.weberdev.com/get_example.php3?count=3480
+
+<?
+
+/*
+for this example the database name is testdb
+the database server ip is localhost
+the table name is colors
+the structure is :
+ColorCode varchar(6),
+ColorLabel varchar(30)
+*/
+
+//step one open the database connection so we need the first class :
+$MyCnx = new MysqlCnx;
+
+//now we open the cnx
+$MyCnx->open("localhost","some user","some pass");
+
+//now we are ready the use the database cnx every time that we need it
+//until we don't close it.
+//using the second class
+$rst = new MysqlRecordSet;
+
+//now we need to create the sql query
+$sql = "select * from colors";
+
+//now we open the recordset and we use the cnx
+$rst->open("testdb",$sql,$MyCnx->cnx);
+
+//at this point we have select and query the database lets move to the
+//first record
+$rst->moveFirst();
+
+//doing a new Combo
+$cmb = new Combo;
+
+while ($rst->EOF!=true) {
+        $cmb->AddItem($rst->datos[0],$rst->datos[1]);
+        
+        //this also can be done like this..
+        //$cmb->AddItem($rst->datos['ColorCode'],$rst->datos['ColorLabel']);
+        $rst->movenext();
+}
+$rst->close();
+$cmb->display("Color");
+
+//and at the end of the page just close the cnx
+$MyCnx->close();
+?>
+The result should be a selection box with all the content in the database table.
+
+
+
+Related Code Examples
+	Powerful php/mysql Pagination for up to 6 URL Params
+Categories : PHP, PHP Classes, Databases, MySQL, Navigation	
+	Password reminder
+Categories : PHP, PHP Classes, Databases, MySQL, Mail	
+	MySQL Class to ease Database connectivity
+Categories : MySQL, PHP Classes, Databases, PHP	
+	usercounter class
+Categories : PHP, PHP Classes, Databases, MySQL, Environment Variables	
+	MySQL Handler
+Categories : PHP, Databases, MySQL, Classes and Objects, PHP Classes	
+	PostGreSQL and MySQL 2 in 1 db Manager
+Categories : PHP, PHP Classes, Databases, PostgreSQL, MySQL	
+	Simple Mini Poll class library (SimPoll)
+Categories : PHP, PHP Classes, Databases, MySQL, Complete Programs	
+	Online Automatic Class Generator for MySQL Tables
+Categories : PHP, PHP Classes, Classes and Objects, Databases, MySQL	
+	Specify your connection settings and create a link to a MySQL database.
+Categories : PHP, PHP Classes, Databases, MySQL, Beginner Guides	
+	Setting up InnoDB on MySQL and using Transactions Begin, Commit, Rollback in PHP.
+Categories : PHP Classes, Databases, PHP, MySQL, InnoDB	
+	Simple database class
+Categories : PHP, PHP Classes, MySQL, Databases	
+	Simple usersOnline class - keep track of how many users are online on your site
+Categories : PHP, PHP Classes, Databases, MySQL	
+	Ajax PHP Tree (Left and Right) with MySQL
+Categories : PHP, Databases, MySQL, AJAX, PHP Classes	
+	YellowPages Content Grabber (PHP5 +)
+Categories : PHP, PHP Classes, Regexps, Databases, MySQL	
+	MySQL Connection/Query Class
+Categories : Databases, MySQL, PHP, PHP Classes	
+
+

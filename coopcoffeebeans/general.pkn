@@ -1,0 +1,256 @@
+body {cursor: default;
+	   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+scrollbar-face-color: #FFFFFF;
+scrollbar-highlight-color: #228B22;
+scrollbar-3dlight-color: #FFFFFF;
+scrollbar-darkshadow-color: #FFFFFF;
+scrollbar-shadow-color: #228B22;
+scrollbar-arrow-color: #228B22;
+scrollbar-track-color: #FFFFFF;}
+a {text-decoration: none; cursor: default}
+a:hover {color: #0000CD; text-decoration: underline; cursor: default}
+
+ 
+tr td.color1 {background:pink;
+              color: blue;
+}
+
+tr td.heading1 {background:yellow;}
+
+tr td.color2 {background:pink;}
+
+tr td.gbr1 {
+	background:white;
+}
+
+tr td.gbr2 {
+	background:lightgrey;
+}
+
+
+.box { 
+	margin: 0 0 20px 0;
+	padding: 0 0 12px 0;
+	font-size: 85%;
+	line-height: 1.5em;
+	color: #666;
+	background: #fff url(img/box-b.gif) no-repeat bottom right;
+	}
+.box h3 {
+	margin: 0;
+	padding: 12px;
+	font-family: Georgia, serif;
+	font-size: 140%;
+	font-weight: normal;
+	color: #693;
+	background: url(img/box-t.gif) no-repeat top left;
+	}
+.box p, .box ul {
+	margin: 0;
+	padding: 0 12px;
+	}
+.box ul li {
+	margin: 12px; 0 0 12px;
+	padding: 0 0 0 18px;
+	list-style: none;
+	background: url(img/li-bullet.gif) no-repeat 0 3px;
+	}
+	
+	
+/*  IE fixes */
+
+#sidebar {
+	height: 1%;
+	}
+	
+
+
+BUTTON
+{
+   BACKGROUND-COLOR:#9bbcc2;
+   FONT-SIZE: 8pt;
+   HEIGHT:20px;
+   WIDTH: 60px;
+}
+INPUT
+{
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+}
+TD
+{
+   ALIGN:Center;
+}
+
+TH
+{
+   COLOR: black;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+}
+
+
+INPUT.button
+{
+   BACKGROUND-COLOR:#9bbcc2;
+   FONT-SIZE: 8pt;
+}  
+TABLE
+{
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+}
+SELECT
+{
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+}
+TEXTAREA
+{
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+}
+
+
+.formTitle
+{
+   COLOR: white;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 10pt;
+   FONT-WEIGHT: bold;
+}
+.formSubTitle
+{
+   COLOR: white;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+}
+.genText
+{
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+}
+.genTextBold
+{
+   FONT-FAMILY: Arial, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+   TEXT-DECORATION: none;
+}
+
+
+.mainPageDiv
+{
+   POSITION:absolute;
+   TOP:74px;
+   LEFT:135px;
+   WIDTH:590px;
+   HEIGHT:150px;
+   Z-INDEX:75;
+}
+.multiRecLstDiv
+{
+   BORDER-BOTTOM: gray 1px solid;
+   BORDER-LEFT: gray 1px solid;
+   MARGIN: 0px;
+   OVERFLOW: auto;
+   PADDING-TOP: 0px;
+   PADDING-BOTTOM: 0px;
+   PADDING-LEFT: 0px;
+   PADDING-RIGHT: 0px;
+   WIDTH: auto;
+}
+.detailLink
+{
+   BACKGROUND:#9BBCC2;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: normal;
+   VISIBILITY: hidden;
+   POSITION:ABSOLUTE;
+   LEFT:300px;
+   WIDTH:300px;
+   Z-INDEX:100;
+   BORDER-LEFT-COLOR: gray;
+   BORDER-TOP-COLOR: gray;
+   BORDER-RIGHT-COLOR: white;
+   BORDER-BOTTOM-COLOR: white;
+   BORDER-STYLE: solid;
+   BORDER-WIDTH: 1px;
+   PADDING-TOP:2px;
+   PADDING-BOTTOM:2px;
+   PADDING-LEFT:4px;
+   PADDING-RIGHT:4px;
+}
+
+
+.generalMenu
+{
+   COLOR: #cccccc;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+   LINE-HEIGHT: 13pt;
+   TEXT-DECORATION: none;
+}
+.generalMenu:hover
+{
+   COLOR: #ffffff;
+   TEXT-DECORATION: underline;
+}
+.menuBar
+{
+   COLOR: black;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 10pt;
+   FONT-WEIGHT: bold;
+   TEXT-DECORATION: none;
+   Z-INDEX:80;
+}
+.menuBarOptions
+{
+   COLOR: black;
+   FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8pt;
+   FONT-WEIGHT: bold;
+   LINE-HEIGHT: 12pt;
+   TEXT-DECORATION: none;
+}
+.menuBarOptions:hover
+{
+   COLOR: lemonchiffon;
+   TEXT-DECORATION: underline;
+}
+.appTitle
+{
+   COLOR: Black;
+   FONT-FAMILY: Arial Black, Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 12pt;
+   FONT-STYLE: italic;
+   LINE-HEIGHT: 12pt;
+   TEXT-DECORATION: none;
+   TEXT-ALIGN: center;
+}
+.required
+{
+	COLOR:Red;
+	FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8 pt;
+   FONT-WEIGHT: normal;
+}
+.blueBold
+{
+	COLOR:#228B22;
+	FONT-FAMILY: Arial, Helvetica, 'MS Sans Serif';
+   FONT-SIZE: 8 pt;
+   FONT-WEIGHT: bold;
+}

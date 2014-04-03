@@ -1,0 +1,25 @@
+<?php
+require("functions.php");
+session_start();
+logo();
+
+  $old_user = $HTTP_SESSION_VARS['valid_user'];  // store  to test if they *were*   logged in
+  unset($HTTP_SESSION_VARS['valid_user']);   
+  unset($HTTP_SESSION_VARS['contact_id']);
+  session_destroy();
+?>
+<h1><center>Log out Screen</center></h1>
+<?php 
+  if (!empty($old_user))
+  {
+    echo '<br><br><br>You have logged out!<br>';
+  }
+  else
+  {
+    // if they weren't logged in but came to this page somehow
+    echo 'You were not logged in, and so have not been logged out.<br />'; 
+  }
+?> 
+<a href="index.php">Back to login page</a>
+</body>
+</html>
