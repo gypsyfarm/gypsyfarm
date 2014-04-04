@@ -1,0 +1,63 @@
+hey folks -
+
+headed up on a few "opportunities" in GORP
+
+Glenn called and said that some of the landed coffees cupping reports are still showing as preship cupping reports.. I told him that we should never be more than 2 weeks behind on this - allowing time for Mane to cup and us to post.  He didnt have a specific example but i told him to email you all if he ever sees this.  I noticed COP73 earlier today is like this.
+
+he also asked about Mex Decaf deliveries - so i looked at contract report and see that no delivery date is entered for the MED contracts...
+plus some other contracts.. pls correct and talk about the importance of these dates. MED73 and MED74 need to be marked "inactive"
+
+noticed that MEM63 still shows up in the Contract report - it is marked "inactive" so it should not show up. I am asking Pat to look into this to see why it would show.  If you ever spot something like this - feel free to point it out to Pat or me so we can attempt to solve the problem.
+
+thanks, bill
+
+
+--
+Bill Harris
+Cooperative Coffees
+www.coopcoffees.com
+office (229) 924-3035
+cell (229) 938-4060
+
+
+
+Hey Pat - here are a few easy changes for GORP..
+
+These date changes should be made to Admin and Roaster reports wherever they are different reports.
+
+Change Default ENDING Date to 12-31-2008 on the following reports:
+reports/product_detail.php
+reports/product_in.php - leave begin date same for now reports/customer_sales.php - change begin date to 1-1-07 reports/green_rpt.php - leave begin date same reports/green_rpt_contracted.php - leave begin date same reports/green_rpt_future.php - leave begin date same
+
+Change to 2008 default
+reports/sales_vs_commit.php
+reports/commit_report.php
+reports/commit_report_by_cust.php
+commit_admin.php
+
+Bug in Report:
+reports/cust_sales_plus_report.php - If change date to 2008, pulls up the 2007 sales... leave the default as 2007 for now, but see if you can get 2008 working.
+
+Add Year sort with 2008 the default to:     reports/transfer_detail.php
+
+General Changes:
+1)  product_maint.php screen -
+    (a) either repair or remove the Last Maint by: and Date: fields under the Update button.  Right now they display the person that originally setup the lot and setup date rather than the last maintenance person and date.
+     (b) Change link to detail to be "Click for Lot Maintenance History"
+    (c) Put a red * next to the GUID ID in lower part of screen.
+    (d) Please display the php unique item_id number in the lower
+Example: for DRF81, the lot mainentance record is product_maint.php?item_id='627'. this number 672 should be added to the top of the lot maintenance screen in the far right top side next to the Org Item check box as an additional piece of information.
+
+Thanks!!!! Bill
+
+--
+Bill Harris
+Cooperative Coffees
+www.coopcoffees.com
+office (229) 924-3035
+cell (229) 938-4060
+
+
+
+
+

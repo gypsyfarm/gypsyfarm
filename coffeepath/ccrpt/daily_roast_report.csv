@@ -1,0 +1,1058 @@
+batchnumber,orderdate,orderid,productcode,productname,quantity,productprice,productweight,pulldate,dummyfield
+1779,20100620,7418,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1779,20100620,7419,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1779,20100620,7419,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1779,20100620,7420,C123-5LB,Sumatra Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1779,20100620,7421,C129-2LB,Peru Viennese Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1779,20100620,7422,C162-5LB,Easygoing Espresso Blend Full City Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1779,20100621,7423,C124-1LB,Mexico Oaxaca Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1779,20100621,7423,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1779,20100621,7424,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1780,20100621,7425,C155-5LB,BRAG Brew Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1780,20100621,7426,C139-3LB,East Timor French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1780,20100621,7426,C123-5LB,Sumatra Viennese Roast Coffee - 5 pound,3,49.95,5,9/27/2010 4:31,x
+1781,20100622,7429,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1781,20100622,7429,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1781,20100622,7429,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1781,20100622,7429,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1781,20100622,7431,C124-5LB,Mexico Oaxaca Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1781,20100623,7432,C124-2LB,Mexico Oaxaca Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1781,20100623,7441,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1781,20100623,7441,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1783,20100623,7442,C137-5LB,Bolivia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1783,20100623,7442,C136-5LB,Colombia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1783,20100623,7442,C150-5LB,Justice Blend Full City Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1783,20100623,7442,C152-5LB,Critical Mass Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1783,20100623,7442,C155-5LB,BRAG Brew Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1783,20100623,7442,C166-5LB,Half Caff Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1783,20100623,7443,C165-1LB,Half Caff Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1783,20100623,7444,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1783,20100623,7444,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1783,20100623,7445,C111-5LB,Nicaragua Medium Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1783,20100623,7447,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1784,20100624,7448,C131-5LB,Nicaragua French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1784,20100624,7448,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1784,20100624,7449,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1784,20100624,7450,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1784,20100624,7450,C155-1LB,BRAG Brew Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1784,20100624,7451,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1785,20100625,7453,C152-5LB,Critical Mass Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1785,20100625,7455,C153-2LB,Mad Poet Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1785,20100625,7455,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1785,20100625,7455,C117-2LB,El Salvador Viennese Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1785,20100625,7455,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1785,20100625,7455,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1785,20100626,7456,C179-5LB,Type A Espresso Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1785,20100626,7457,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1785,20100627,7458,C161-1LB,A Sign of Relief Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1785,20100627,7458,C150-1LB,Justice Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1785,20100627,7459,C136-2LB,Colombia French Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1785,20100627,7460,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1785,20100627,7460,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1785,20100627,7460,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1785,20100627,7461,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1785,20100628,7462,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1785,20100623,7446,C159-2LB,Maty's Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1785,20100623,7446,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1785,20100623,7446,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1785,20100623,7446,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1785,20100623,7446,C150-1LB,Justice Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1785,20100623,7446,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1788,20100628,7463,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1788,20100628,7463,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1788,20100628,7464,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1788,20100628,7464,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1788,20100628,7464,C172-1LB,Decaf Espresso Blend Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1788,20100628,7464,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1788,20100628,7464,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1788,20100628,7465,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1788,20100628,7465,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1788,20100628,7465,C151-1LB,Benevolent Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1788,20100628,7466,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1788,20100628,7467,C131-2LB,Nicaragua French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1788,20100628,7467,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1788,20100628,7468,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1788,20100628,7468,C172-2LB,Decaf Espresso Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1788,20100628,7469,C166-2LB,Half Caff Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1788,20100628,7470,C160-1LB,Original Espresso Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1788,20100628,7470,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1788,20100629,7471,C124-5LB,Mexico Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1788,20100629,7472,C139-3LB,East Timor French Roast Coffee - 5 pound,3,49.95,5,9/27/2010 4:31,x
+1789,20100629,7474,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1789,20100629,7474,C161-2LB,A Sign of Relief Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1789,20100629,7475,C111-2LB,Nicaragua Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1789,20100629,7475,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1789,20100629,7476,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1789,20100629,7476,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1789,20100629,7476,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1789,20100629,7477,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1789,20100629,7478,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1789,20100629,7478,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1789,20100629,7479,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1789,20100629,7479,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1789,20100629,7479,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1789,20100629,7480,C150-1LB,Justice Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1789,20100629,7480,C172-1LB,Decaf Espresso Blend Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1789,20100629,7481,C166-1LB,Half Caff Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1789,20100629,7481,C165-1LB,Half Caff Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1789,20100630,7482,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1789,20100630,7482,C183-2LB,Sweet Auburn Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1789,20100630,7483,C150-1LB,Justice Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1789,20100630,7484,C111-5LB,Nicaragua Medium Roast Coffee - 5 pound,3,47.45,5,9/27/2010 4:31,x
+1789,20100630,7484,C170-5LB,House Blend Decaf Full City Roast Coffee - 5 pound,1,52.95,5,9/27/2010 4:31,x
+1790,20100630,7485,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1790,20100630,7485,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1790,20100630,7486,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1790,20100630,7486,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1790,20100630,7486,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1790,20100630,7487,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1790,20100630,7487,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1790,20100630,7488,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1790,20100630,7488,C124-1LB,Mexico Full City Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1790,20100701,7490,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1792,20100701,7491,C117-2LB,El Salvador Viennese Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1792,20100701,7492,C153-5LB,Mad Poet Blend Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1792,20100701,7493,C131-2LB,Nicaragua French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1792,20100701,7493,C123-2LB,Sumatra Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1792,20100701,7494,C172-1LB,Decaf Espresso Blend Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1792,20100701,7494,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1792,20100701,7494,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1792,20100701,7495,C131-2LB,Nicaragua French Roast Coffee - 2 pound,4,20.95,2,9/27/2010 4:31,x
+1792,20100701,7495,C124-2LB,Mexico Full City Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1792,20100701,7496,C136-5LB,Colombia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1793,20100703,7497,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1793,20100703,7497,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1793,20100703,7498,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1793,20100703,7499,C166-5LB,Half Caff Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1793,20100704,7500,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1793,20100704,7500,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1793,20100704,7501,C131-1LB,Nicaragua French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1793,20100704,7501,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1793,20100704,7502,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1793,20100705,7503,C153-2LB,Mad Poet Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1793,20100705,7504,C159-2LB,Maty's Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1793,20100705,7505,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1793,20100705,7505,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1793,20100705,7505,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1793,20100705,7505,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1793,20100705,7506,C155-5LB,BRAG Brew Viennese Roast Coffee - 5 pound,2,49.95,5,9/27/2010 4:31,x
+1793,20100705,7507,C131-2LB,Nicaragua French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1793,20100705,7507,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1793,20100705,7507,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1793,20100705,7508,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1793,20100706,7509,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1793,20100706,7509,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7510,C165-2LB,Half Caff Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1794,20100706,7511,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7511,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7512,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1794,20100706,7513,C131-2LB,Nicaragua French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1794,20100706,7513,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1794,20100706,7514,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7514,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7514,C157-1LB,Georgia River Network Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7514,C150-1LB,Justice Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7514,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7514,C154-1LB,Mondo Kawan Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7514,C155-1LB,BRAG Brew Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7514,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7514,C156-1LB,GA Organics Special Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7514,C150-8oz,Justice Blend Full City Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1794,20100706,7514,C151-8oz,Benevolent Blend Medium Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1794,20100706,7514,C152-8oz,Critical Mass Blend French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1794,20100706,7514,C153-8oz,Mad Poet Blend Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1794,20100706,7514,C154-8oz,Mondo Kawan Blend Full City Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1794,20100706,7514,C155-8oz,BRAG Brew Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1794,20100706,7515,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7515,C172-1LB,Decaf Espresso Blend Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1794,20100706,7516,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100706,7516,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100707,7517,C165-1LB,Half Caff Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1794,20100707,7517,C166-1LB,Half Caff Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1795,20100707,7518,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1795,20100707,7518,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1795,20100707,7518,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1795,20100707,7518,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,3,11.25,1,9/27/2010 4:31,x
+1795,20100707,7519,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1795,20100707,7519,C170-5LB,House Blend Decaf Full City Roast Coffee - 5 pound,1,52.95,5,9/27/2010 4:31,x
+1795,20100707,7520,C150-1LB,Justice Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1795,20100707,7520,C161-1LB,A Sign of Relief Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1795,20100707,7520,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1795,20100707,7520,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1795,20100707,7521,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1795,20100707,7521,C111-2LB,Nicaragua Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1795,20100707,7522,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,4,11.25,1,9/27/2010 4:31,x
+1795,20100707,7523,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1795,20100707,7523,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1795,20100707,7523,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1795,20100708,7524,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1795,20100708,7524,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1796,20100708,7525,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1796,20100708,7525,C129-1LB,Peru Viennese Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1796,20100708,7525,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1796,20100708,7525,C156-1LB,GA Organics Special Blend Medium Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1796,20100708,7525,C150-1LB,Justice Blend Full City Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1796,20100708,7526,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1796,20100708,7526,C161-1LB,A Sign of Relief Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7527,C124-5LB,Mexico Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1796,20100708,7528,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1796,20100708,7528,C157-2LB,Georgia River Network Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1796,20100708,7529,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1796,20100708,7529,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7529,C165-1LB,Half Caff Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7530,C152-2LB,Critical Mass Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1796,20100708,7531,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7531,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1796,20100708,7532,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1796,20100708,7532,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1796,20100708,7534,C152-1LB,Critical Mass Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7535,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7535,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1796,20100708,7536,C124-1LB,Mexico Full City Roast Coffee - 1 pound,3,10.45,1,9/27/2010 4:31,x
+1796,20100708,7537,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1796,20100708,7537,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1796,20100708,7538,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7538,C157-1LB,Georgia River Network Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7539,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1796,20100708,7540,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7540,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1796,20100708,7540,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7540,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1796,20100708,7542,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7542,C123-2LB,Sumatra Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1796,20100708,7542,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1796,20100708,7542,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7542,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1796,20100708,7543,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7543,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7543,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100708,7544,C124-5LB,Mexico Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1796,20100708,7545,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1796,20100708,7545,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1796,20100709,7546,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1796,20100709,7547,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1796,20100709,7547,C157-1LB,Georgia River Network Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100709,7548,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1798,20100709,7548,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100709,7548,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100709,7549,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1798,20100709,7550,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100709,7550,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100709,7551,C155-5LB,BRAG Brew Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1798,20100710,7552,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1798,20100710,7552,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100710,7552,C156-2LB,GA Organics Special Blend Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1798,20100710,7553,C124-5LB,Mexico Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1798,20100710,7554,C124-5LB,Mexico Full City Roast Coffee - 5 pound,2,47.45,5,9/27/2010 4:31,x
+1798,20100711,7555,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100711,7555,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100711,7555,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100711,7555,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1798,20100711,7555,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1798,20100711,7556,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1798,20100711,7557,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100711,7557,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100711,7558,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100711,7558,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1798,20100711,7560,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1798,20100711,7560,C172-2LB,Decaf Espresso Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1798,20100712,7561,C172-1LB,Decaf Espresso Blend Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1798,20100712,7561,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1798,20100712,7562,C144-1LB,Brazil Viennese Roast - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1798,20100712,7562,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1798,20100712,7563,C116-1LB,Colombia Medium Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1798,20100712,7564,C154-2LB,Mondo Kawan Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1799,20100712,7565,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,5,10.95,1,9/27/2010 4:31,x
+1799,20100712,7566,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1799,20100712,7567,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1799,20100712,7568,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1800,20100713,7569,C165-2LB,Half Caff Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1800,20100713,7569,C166-2LB,Half Caff Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1800,20100713,7570,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1800,20100713,7571,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1800,20100713,7571,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1800,20100713,7571,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1800,20100713,7573,C179-2LB,Type A Espresso Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1800,20100713,7574,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1800,20100713,7574,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1800,20100713,7574,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1801,20100714,7575,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1801,20100714,7576,C165-2LB,Half Caff Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1801,20100714,7577,C151-5LB,Benevolent Blend Medium Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1801,20100714,7578,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1801,20100714,7578,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1802,20100715,7579,C166-2LB,Half Caff Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1803,20100716,7581,C160-5LB,Original Espresso Blend Medium Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1803,20100716,7582,C118-5LB,Ethiopia Yirgacheffe Medium Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1803,20100716,7582,C122-5LB,Guatemala Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1803,20100716,7583,C124-2LB,Mexico Full City Roast Coffee - 2 pound,3,19.95,2,9/27/2010 4:31,x
+1803,20100716,7583,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1803,20100716,7584,C152-1LB,Critical Mass Blend French Roast Coffee - 1 pound,6,10.95,1,9/27/2010 4:31,x
+1803,20100716,7585,C124-1LB,Mexico Full City Roast Coffee - 1 pound,3,10.45,1,9/27/2010 4:31,x
+1803,20100717,7586,C137-5LB,Bolivia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1803,20100717,7587,C155-1LB,BRAG Brew Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1803,20100717,7588,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1803,20100718,7589,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1803,20100718,7589,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1803,20100718,7590,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1803,20100718,7591,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1803,20100718,7591,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1803,20100718,7592,C152-1LB,Critical Mass Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1803,20100718,7592,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1803,20100718,7593,C153-2LB,Mad Poet Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1803,20100718,7593,C144-2LB,Brazil Viennese Roast - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1803,20100718,7594,C111-2LB,Nicaragua Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1803,20100718,7594,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1803,20100718,7595,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1803,20100718,7595,C123-2LB,Sumatra Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1803,20100718,7596,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1803,20100719,7597,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1803,20100719,7598,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1803,20100719,7598,C151-1LB,Benevolent Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1803,20100719,7599,C157-2LB,Georgia River Network Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1804,20100719,7600,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1804,20100719,7600,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1804,20100719,7600,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1804,20100719,7601,C152-5LB,Critical Mass Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1804,20100719,7603,C131-5LB,Nicaragua French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1805,20100720,7604,C151-1LB,Benevolent Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1805,20100720,7604,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1805,20100720,7604,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1806,20100721,7607,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1806,20100721,7608,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,3,10.95,1,9/27/2010 4:31,x
+1806,20100721,7609,C165-1LB,Half Caff Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1806,20100721,7609,C166-1LB,Half Caff Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1806,20100722,7611,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1807,20100722,7613,C124-5LB,Mexico Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1808,20100723,7614,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100723,7614,C160-1LB,Original Espresso Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100723,7614,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1808,20100723,7614,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100723,7615,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,3,10.45,1,9/27/2010 4:31,x
+1808,20100723,7616,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1808,20100723,7616,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1808,20100723,7616,C124-2LB,Mexico Full City Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1808,20100723,7616,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1808,20100723,7616,C129-2LB,Peru Viennese Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1808,20100723,7616,C117-2LB,El Salvador Viennese Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1808,20100723,7617,C153-2LB,Mad Poet Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1808,20100723,7619,C157-1LB,Georgia River Network Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100723,7619,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100723,7619,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100724,7620,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1808,20100724,7621,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1808,20100724,7621,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100724,7622,C155-1LB,BRAG Brew Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100724,7622,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100724,7622,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100724,7623,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1808,20100724,7623,C179-2LB,Type A Espresso Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1808,20100724,7624,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1808,20100724,7624,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1808,20100724,7624,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1808,20100724,7625,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1808,20100725,7626,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1808,20100726,7627,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1809,20100726,7628,C139-3LB,East Timor French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1809,20100726,7628,C172-2LB,Decaf Espresso Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1809,20100726,7629,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1809,20100726,7629,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1810,20100727,7631,C122-5LB,Guatemala Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1810,20100727,7632,C166-5LB,Half Caff Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1810,20100727,7632,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1810,20100727,7634,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,3,10.45,1,9/27/2010 4:31,x
+1810,20100727,7635,C151-2LB,Benevolent Blend Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1810,20100727,7635,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1810,20100727,7635,C150-2LB,Justice Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1810,20100727,7635,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1810,20100727,7635,C156-1LB,GA Organics Special Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1810,20100728,7636,C157-2LB,Georgia River Network Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1812,20100728,7637,C137-1LB,Bolivia French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1812,20100728,7637,C144-1LB,Brazil Viennese Roast - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1812,20100728,7638,C160-1LB,Original Espresso Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1812,20100728,7639,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1812,20100728,7639,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1812,20100728,7640,C137-1LB,Bolivia French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1812,20100728,7641,C122-5LB,Guatemala Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1812,20100728,7642,C160-2LB,Original Espresso Blend Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1812,20100728,7642,C162-2LB,Easygoing Espresso Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1812,20100728,7642,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1812,20100728,7643,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1812,20100728,7644,C144-8oz,Brazil Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C111-8oz,Nicaragua Medium Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C116-8oz,Colombia Medium Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C117-8oz,El Salvador Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C118-8oz,Ethiopia Yirgacheffe Medium Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C122-8oz,Guatemala Full City Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C123-8oz,Sumatra Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C124-8oz,Mexico Full City Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C129-8oz,Peru Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C131-8oz,Nicaragua French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C136-8oz,Colombia French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C137-8oz,Bolivia French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C139-8oz,East Timor French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C170-8oz,House Blend Decaf Full City Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1812,20100728,7644,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1812,20100728,7645,C150-2LB,Justice Blend Full City Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1812,20100728,7646,C111-5LB,Nicaragua Medium Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1812,20100728,7646,C170-5LB,House Blend Decaf Full City Roast Coffee - 5 pound,1,52.95,5,9/27/2010 4:31,x
+1812,20100729,7647,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1812,20100729,7647,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1813,20100729,7648,C144-2LB,Brazil Viennese Roast - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1813,20100729,7649,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1813,20100729,7649,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1813,20100730,7650,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1813,20100730,7650,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1813,20100730,7650,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1813,20100730,7650,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1813,20100730,7650,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1813,20100730,7650,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1813,20100730,7650,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1814,20100730,7651,C155-1LB,BRAG Brew Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1814,20100730,7651,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1814,20100731,7652,C144-1LB,Brazil Viennese Roast - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1814,20100731,7652,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1814,20100731,7653,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1814,20100801,7655,C144-2LB,Brazil Viennese Roast - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1814,20100801,7655,C123-2LB,Sumatra Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1814,20100801,7656,C170-5LB,House Blend Decaf Full City Roast Coffee - 5 pound,1,52.95,5,9/27/2010 4:31,x
+1814,20100801,7656,C123-2LB,Sumatra Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1814,20100801,7657,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1814,20100801,7657,C124-1LB,Mexico Full City Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1814,20100801,7658,C156-2LB,GA Organics Special Blend Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1814,20100802,7660,C131-5LB,Nicaragua French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1814,20100802,7661,C137-1LB,Bolivia French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1814,20100802,7661,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1815,20100802,7662,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1815,20100802,7662,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1815,20100802,7663,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1815,20100802,7663,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1815,20100802,7664,C131-2LB,Nicaragua French Roast Coffee - 2 pound,4,20.95,2,9/27/2010 4:31,x
+1815,20100802,7664,C124-2LB,Mexico Full City Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1815,20100802,7665,C160-1LB,Original Espresso Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1815,20100803,7666,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1815,20100803,7666,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1815,20100803,7667,C123-2LB,Sumatra Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1815,20100803,7667,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1815,20100803,7667,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1816,20100803,7669,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1816,20100803,7669,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1816,20100803,7669,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1816,20100803,7669,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1816,20100803,7670,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1816,20100803,7671,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1816,20100803,7671,C124-1LB,Mexico Full City Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1816,20100803,7671,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1816,20100803,7672,C116-2LB,Colombia Medium Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1816,20100804,7673,C111-2LB,Nicaragua Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1817,20100804,7674,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1817,20100804,7675,C131-2LB,Nicaragua French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1817,20100804,7676,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1817,20100804,7676,C179-2LB,Type A Espresso Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1817,20100804,7677,C157-2LB,Georgia River Network Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1817,20100804,7677,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1817,20100804,7678,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,6,10.95,1,9/27/2010 4:31,x
+1817,20100805,7679,C182-2LB,Mocha Java Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1817,20100805,7680,C136-2LB,Colombia French Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1818,20100805,7681,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7681,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7681,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7681,C152-1LB,Critical Mass Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7682,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1818,20100805,7683,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,2,9/27/2010 4:31,x
+1818,20100805,7683,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,2,9/27/2010 4:31,x
+1818,20100805,7684,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1818,20100805,7686,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,2,9/27/2010 4:31,x
+1818,20100805,7686,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7688,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,2,9/27/2010 4:31,x
+1818,20100805,7688,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7689,C117-5LB,El Salvador Viennese Roast Coffee - 5 pound,1,47.45,6,9/27/2010 4:31,x
+1818,20100805,7690,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7690,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7690,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7690,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,32.9,2,9/27/2010 4:31,x
+1818,20100805,7690,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7690,C154-1LB,Mondo Kawan Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7691,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,2,9/27/2010 4:31,x
+1818,20100805,7691,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7692,C118-5LB,Ethiopia Yirgacheffe Medium Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1818,20100805,7692,C111-2LB,Nicaragua Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1818,20100805,7692,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,3,9/27/2010 4:31,x
+1818,20100805,7692,C160-1LB,Original Espresso Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7692,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7693,C161-2LB,A Sign of Relief Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1818,20100805,7693,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1818,20100805,7693,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1818,20100805,7694,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7695,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,2,9/27/2010 4:31,x
+1818,20100805,7695,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7695,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1818,20100805,7695,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7696,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7696,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7696,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1818,20100805,7696,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,2,9/27/2010 4:31,x
+1818,20100805,7697,C136-1LB,Colombia French Roast Coffee - 1 pound,4,10.95,1,9/27/2010 4:31,x
+1818,20100805,7698,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,3,9/27/2010 4:31,x
+1818,20100805,7699,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1818,20100805,7699,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1818,20100805,7699,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1819,20100806,7701,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1819,20100806,7701,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1819,20100806,7702,C172-5LB,Decaf Espresso Blend Full City Roast Coffee - 5 pound,1,52.95,5,9/27/2010 4:31,x
+1819,20100806,7702,C171-5LB,House Blend Decaf French Roast Coffee - 5 pound,1,52.95,5,9/27/2010 4:31,x
+1819,20100806,7703,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1819,20100806,7704,C161-2LB,A Sign of Relief Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1819,20100806,7704,C111-2LB,Nicaragua Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1819,20100806,7705,C131-2LB,Nicaragua French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1819,20100806,7706,C123-5LB,Sumatra Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1819,20100807,7707,C129-2LB,Peru Viennese Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1819,20100807,7708,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1819,20100807,7708,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1819,20100808,7709,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1819,20100808,7709,C153-2LB,Mad Poet Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1819,20100808,7710,C131-2LB,Nicaragua French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1819,20100808,7710,C166-1LB,Half Caff Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1819,20100808,7710,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1819,20100809,7711,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1820,20100809,7712,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,5,10.95,1,9/27/2010 4:31,x
+1820,20100809,7713,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1820,20100809,7713,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1820,20100809,7716,C155-5LB,BRAG Brew Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1820,20100809,7716,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1820,20100809,7718,C179-5LB,Type A Espresso Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1820,20100809,7718,C131-2LB,Nicaragua French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1820,20100809,7719,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1820,20100809,7719,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1820,20100809,7720,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1820,20100809,7720,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1820,20100809,7720,C161-1LB,A Sign of Relief Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1820,20100809,7720,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1820,20100809,7720,C154-1LB,Mondo Kawan Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1820,20100809,7721,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1820,20100809,7721,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1821,20100810,7722,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1821,20100810,7722,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1821,20100810,7723,C126-5LB,Uganda Viennese Roast Coffee - 5 pound,2,49.95,5,9/27/2010 4:31,x
+1821,20100810,7724,C122-5LB,Guatemala Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1821,20100810,7724,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1821,20100810,7725,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1821,20100810,7726,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1822,20100811,7729,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1822,20100811,7729,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1822,20100811,7729,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1822,20100812,7730,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1822,20100812,7730,C156-1LB,GA Organics Special Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1823,20100812,7732,C179-2LB,Type A Espresso Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1823,20100812,7732,C182-2LB,Mocha Java Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1823,20100812,7732,C110-2LB,Tanzania Peaberry Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1823,20100812,7733,C117-2LB,El Salvador Viennese Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1823,20100812,7733,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1823,20100812,7733,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1823,20100812,7734,C152-2LB,Critical Mass Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1823,20100812,7734,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1823,20100812,7734,C152-1LB,Critical Mass Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1823,20100812,7736,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1823,20100812,7736,C151-1LB,Benevolent Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1824,20100813,7737,C160-2LB,Original Espresso Blend Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1824,20100813,7737,C162-2LB,Easygoing Espresso Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1824,20100813,7737,C179-2LB,Type A Espresso Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1824,20100813,7740,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1824,20100813,7740,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1824,20100813,7740,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1824,20100814,7741,C139-2LB,East Timor French Roast Coffee - 2 pound,3,20.95,2,9/27/2010 4:31,x
+1824,20100814,7742,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1824,20100814,7742,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1824,20100814,7743,C165-2LB,Half Caff Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1824,20100814,7744,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1824,20100814,7745,C166-2LB,Half Caff Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1824,20100814,7745,C165-2LB,Half Caff Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1824,20100814,7745,C110-1LB,Tanzania Peaberry Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1824,20100814,7745,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1824,20100814,7746,C124-2LB,Mexico Full City Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1824,20100814,7747,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1824,20100815,7748,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1824,20100815,7748,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1824,20100816,7750,C157-2LB,Georgia River Network Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1824,20100816,7751,C152-5LB,Critical Mass Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1825,20100816,7752,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100816,7752,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100816,7753,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100816,7753,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100816,7753,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100816,7753,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100816,7754,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1825,20100816,7754,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100816,7755,Cxxx-2LB,Ethiopia Sidamo Natural Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1825,20100816,7755,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100816,7755,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100816,7756,C165-5LB,Half Caff Blend Full City Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1825,20100816,7757,C166-1LB,Half Caff Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100816,7758,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1825,20100817,7759,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1825,20100817,7759,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1826,20100817,7762,C131-1LB,Nicaragua French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1826,20100817,7762,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1826,20100817,7763,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1826,20100817,7764,C111-2LB,Nicaragua Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1826,20100817,7765,C183-2LB,Sweet Auburn Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1826,20100817,7765,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1826,20100817,7766,C161-1LB,A Sign of Relief Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1826,20100818,7767,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1826,20100818,7767,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1826,20100818,7768,C165-1LB,Half Caff Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1826,20100818,7768,C166-1LB,Half Caff Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1826,20100818,7768,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1827,20100818,7769,C126-5LB,Uganda Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1827,20100818,7770,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1827,20100818,7770,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1827,20100818,7771,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1827,20100818,7771,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1827,20100818,7771,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1827,20100818,7772,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1828,20100820,7777,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1828,20100820,7778,C137-1LB,Bolivia French Roast Coffee - 1 pound,4,10.95,1,9/27/2010 4:31,x
+1828,20100820,7778,C144-1LB,Brazil Viennese Roast - 1 pound,4,10.95,1,9/27/2010 4:31,x
+1828,20100820,7778,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1828,20100820,7779,C150-5LB,Justice Blend Full City Roast Coffee - 5 pound,2,49.95,5,9/27/2010 4:31,x
+1828,20100820,7780,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1828,20100821,7781,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1828,20100821,7781,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1828,20100821,7782,C151-2LB,Benevolent Blend Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1828,20100821,7782,C150-2LB,Justice Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1828,20100821,7783,C116-8oz,Colombia Medium Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1828,20100821,7783,C118-8oz,Ethiopia Yirgacheffe Medium Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1828,20100821,7783,C123-8oz,Sumatra Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1828,20100821,7783,C124-8oz,Mexico Full City Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1828,20100821,7783,C131-8oz,Nicaragua French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1828,20100821,7783,C137-8oz,Bolivia French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1828,20100821,7784,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1828,20100821,7784,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1828,20100821,7785,C155-5LB,BRAG Brew Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1828,20100822,7786,C160-1LB,Original Espresso Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1828,20100822,7786,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1828,20100822,7786,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1828,20100822,7787,C155-5LB,BRAG Brew Viennese Roast Coffee - 5 pound,2,49.95,5,9/27/2010 4:31,x
+1828,20100822,7787,C155-5LB,BRAG Brew Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1828,20100822,7788,C152-2LB,Critical Mass Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1828,20100822,7788,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1828,20100822,7789,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1828,20100823,7790,C118-5LB,Ethiopia Yirgacheffe Medium Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1829,20100823,7791,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1829,20100823,7792,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1829,20100823,7792,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1829,20100823,7792,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1829,20100823,7792,C144-8oz,Brazil Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C111-8oz,Nicaragua Medium Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C116-8oz,Colombia Medium Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C117-8oz,El Salvador Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C118-8oz,Ethiopia Yirgacheffe Medium Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C122-8oz,Guatemala Full City Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C123-8oz,Sumatra Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C124-8oz,Mexico Full City Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C129-8oz,Peru Viennese Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C131-8oz,Nicaragua French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C136-8oz,Colombia French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C137-8oz,Bolivia French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C139-8oz,East Timor French Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7792,C170-8oz,House Blend Decaf Full City Roast Coffee - 8 ounce,1,0,0,9/27/2010 4:31,x
+1829,20100823,7793,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1829,20100823,7793,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1829,20100823,7794,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1829,20100823,7794,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1829,20100823,7794,C152-1LB,Critical Mass Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1829,20100823,7795,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1830,20100824,7796,C153-5LB,Mad Poet Blend Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1830,20100824,7797,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1830,20100824,7797,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1830,20100824,7798,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1830,20100824,7798,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1830,20100824,7799,C166-5LB,Half Caff Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1830,20100824,7799,C172-2LB,Decaf Espresso Blend Full City Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1830,20100824,7800,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1830,20100824,7800,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1830,20100824,7801,C165-5LB,Half Caff Blend Full City Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1830,20100824,7801,C166-5LB,Half Caff Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1830,20100824,7801,C166-1LB,Half Caff Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1830,20100824,7801,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1830,20100824,7801,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1830,20100824,7801,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1830,20100824,7801,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1830,20100824,7802,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,1,0,1,9/27/2010 4:31,x
+1830,20100824,7802,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1830,20100824,7803,C155-5LB,BRAG Brew Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1830,20100825,7804,C124-2LB,Mexico Full City Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1831,20100827,7809,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1831,20100827,7810,C124-5LB,Mexico Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1831,20100827,7811,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1831,20100827,7811,C131-2LB,Nicaragua French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1831,20100828,7812,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1831,20100828,7812,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1831,20100828,7812,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1831,20100828,7813,C131-1LB,Nicaragua French Roast Coffee - 1 pound,6,10.95,1,9/27/2010 4:31,x
+1831,20100828,7814,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1831,20100828,7814,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1831,20100828,7815,C136-2LB,Colombia French Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1831,20100828,7816,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100828,7816,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100828,7817,C153-2LB,Mad Poet Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1831,20100828,7817,C152-2LB,Critical Mass Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1831,20100828,7817,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100828,7818,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1831,20100828,7818,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100828,7818,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100828,7820,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100828,7820,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100828,7820,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100828,7820,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1831,20100828,7820,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100828,7821,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7823,C152-1LB,Critical Mass Blend French Roast Coffee - 1 pound,3,10.95,1,9/27/2010 4:31,x
+1831,20100829,7823,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,3,10.95,1,9/27/2010 4:31,x
+1831,20100829,7824,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7824,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7825,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7825,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,4,11.25,1,9/27/2010 4:31,x
+1831,20100829,7825,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7825,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7825,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1831,20100829,7826,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7826,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1831,20100829,7827,C151-1LB,Benevolent Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7827,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7827,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7827,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7828,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,22.9,2,9/27/2010 4:31,x
+1831,20100829,7828,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1831,20100829,7829,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1832,20100830,7830,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1832,20100830,7831,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1832,20100830,7832,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1832,20100830,7832,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1832,20100830,7833,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1832,20100830,7833,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1832,20100830,7833,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1832,20100831,7834,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1832,20100831,7834,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1833,20100831,7835,C123-5LB,Sumatra Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1833,20100831,7835,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1833,20100831,7836,C150-2LB,Justice Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1833,20100831,7836,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1833,20100901,7837,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1833,20100901,7838,C139-3LB,East Timor French Roast Coffee - 5 pound,3,49.95,5,9/27/2010 4:31,x
+1834,20100901,7839,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1834,20100901,7840,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1834,20100901,7841,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1834,20100901,7841,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1834,20100901,7842,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1834,20100901,7843,C183-2LB,Sweet Auburn Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1834,20100901,7843,C159-2LB,Maty's Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1834,20100901,7844,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1834,20100902,7845,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1834,20100902,7845,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,2,11.25,1,9/27/2010 4:31,x
+1834,20100902,7845,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1835,20100902,7847,C172-1LB,Decaf Espresso Blend Full City Roast Coffee - 1 pound,2,11.25,1,9/27/2010 4:31,x
+1835,20100902,7849,C152-5LB,Critical Mass Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1836,20100903,7852,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,0,0,9/27/2010 4:31,x
+1836,20100903,7852,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,1,0,0,9/27/2010 4:31,x
+1836,20100903,7853,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1836,20100903,7853,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1836,20100903,7853,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1836,20100903,7854,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1836,20100904,7855,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1836,20100904,7856,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1836,20100904,7857,C122-5LB,Guatemala Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1836,20100904,7857,C170-5LB,House Blend Decaf Full City Roast Coffee - 5 pound,1,54.95,5,9/27/2010 4:31,x
+1836,20100905,7858,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1836,20100906,7860,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,3,10.95,1,9/27/2010 4:31,x
+1836,20100906,7861,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1836,20100906,7861,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1836,20100906,7861,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1836,20100906,7862,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1836,20100906,7865,C166-2LB,Half Caff Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1836,20100906,7866,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1836,20100906,7866,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1836,20100906,7868,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1836,20100906,7868,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1836,20100906,7868,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1836,20100907,7869,C125-1LB,Ethiopia Sidamo Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1836,20100907,7869,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1836,20100907,7870,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1836,20100907,7870,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1836,20100907,7870,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1838,20100907,7871,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,3,10.45,1,9/27/2010 4:31,x
+1838,20100907,7872,C131-2LB,Nicaragua French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1838,20100907,7872,C166-1LB,Half Caff Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1838,20100907,7872,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1838,20100907,7874,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1838,20100907,7874,C161-1LB,A Sign of Relief Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1838,20100907,7879,C116-1LB,Colombia Medium Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1838,20100907,7879,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1838,20100907,7879,C137-1LB,Bolivia French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1838,20100907,7880,C129-2LB,Peru Viennese Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1838,20100907,7881,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1838,20100907,7882,C125-5LB,Ethiopia Sidamo Full City Roast Coffee - 5 pound,2,49.95,5,9/27/2010 4:31,x
+1838,20100907,7883,C116-2LB,Colombia Medium Roast Coffee - 2 pound,3,19.95,2,9/27/2010 4:31,x
+1838,20100908,7885,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1839,20100908,7886,C136-2LB,Colombia French Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1839,20100908,7887,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1839,20100908,7887,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1839,20100908,7887,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1839,20100908,7888,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1839,20100908,7890,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,5,10.45,1,9/27/2010 4:31,x
+1839,20100908,7890,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,5,10.45,1,9/27/2010 4:31,x
+1839,20100908,7890,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,5,11.25,1,9/27/2010 4:31,x
+1839,20100908,7891,C156-2LB,GA Organics Special Blend Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1839,20100908,7892,C179-5LB,Type A Espresso Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1839,20100908,7892,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1839,20100908,7893,C144-5LB,Brazil Viennese Roast - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1839,20100908,7894,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1839,20100908,7894,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1839,20100908,7894,C131-1LB,Nicaragua French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1839,20100908,7895,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,23.4,1.8,9/27/2010 4:31,x
+1839,20100908,7895,C129-2LB,Peru Viennese Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1839,20100908,7896,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1839,20100908,7897,C125-2LB,Ethiopia Sidamo Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1839,20100908,7897,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1839,20100909,7898,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1839,20100909,7898,C150-1LB,Justice Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1839,20100909,7898,C154-1LB,Mondo Kawan Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1839,20100909,7898,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1839,20100909,7898,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7899,C136-5LB,Colombia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1840,20100909,7900,C157-1LB,Georgia River Network Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7900,C152-1LB,Critical Mass Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7901,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7901,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7902,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1840,20100909,7902,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1840,20100909,7903,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1840,20100909,7903,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1840,20100909,7904,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7904,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1840,20100909,7905,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1840,20100909,7906,C160-5LB,Original Espresso Blend Medium Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1840,20100909,7906,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1840,20100909,7907,C118-5LB,Ethiopia Yirgacheffe Medium Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1840,20100909,7908,C116-1LB,Colombia Medium Roast Coffee - 1 pound,3,10.45,1,9/27/2010 4:31,x
+1840,20100909,7908,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1840,20100909,7908,C136-1LB,Colombia French Roast Coffee - 1 pound,3,10.95,1,9/27/2010 4:31,x
+1840,20100909,7908,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7908,C166-1LB,Half Caff Blend French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1840,20100909,7908,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1840,20100909,7908,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1840,20100909,7909,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1840,20100909,7910,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1840,20100909,7910,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1840,20100909,7911,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1840,20100909,7911,C111-2LB,Nicaragua Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1840,20100909,7911,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1840,20100909,7911,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1840,20100909,7911,C183-2LB,Sweet Auburn Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1840,20100909,7911,C156-2LB,GA Organics Special Blend Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1840,20100909,7912,C116-1LB,Colombia Medium Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1840,20100909,7912,C124-1LB,Mexico Full City Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1840,20100909,7912,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1840,20100909,7913,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1840,20100909,7914,C153-5LB,Mad Poet Blend Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1840,20100909,7915,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7916,C136-5LB,Colombia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1840,20100909,7917,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1840,20100909,7917,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1840,20100909,7919,C124-1LB,Mexico Full City Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1840,20100909,7919,C161-1LB,A Sign of Relief Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7920,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7920,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100909,7920,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1840,20100910,7921,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100910,7922,C166-2LB,Half Caff Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100910,7922,C152-2LB,Critical Mass Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100910,7923,C136-2LB,Colombia French Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1841,20100910,7924,C136-5LB,Colombia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1841,20100910,7924,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100910,7925,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1841,20100910,7925,C124-2LB,Mexico Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1841,20100910,7925,C129-2LB,Peru Viennese Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1841,20100910,7926,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1841,20100910,7927,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100910,7928,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1841,20100910,7929,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1841,20100910,7930,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1841,20100910,7930,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1841,20100910,7930,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1841,20100911,7931,C165-2LB,Half Caff Blend Full City Roast Coffee - 2 pound,3,20.95,2,9/27/2010 4:31,x
+1841,20100911,7931,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,3,21.95,2,9/27/2010 4:31,x
+1841,20100911,7932,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100911,7933,C123-2LB,Sumatra Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100911,7933,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1841,20100911,7934,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100911,7935,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1841,20100911,7935,C165-2LB,Half Caff Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100911,7936,C165-1LB,Half Caff Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1841,20100912,7937,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100912,7937,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1841,20100907,7873,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1841,20100907,7873,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1842,20100913,7938,C151-1LB,Benevolent Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1842,20100913,7938,C161-1LB,A Sign of Relief Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1842,20100913,7939,C151-1LB,Benevolent Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1842,20100913,7939,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1842,20100913,7940,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1842,20100913,7940,C151-1LB,Benevolent Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1842,20100913,7941,C166-2LB,Half Caff Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1842,20100913,7941,C172-2LB,Decaf Espresso Blend Full City Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1843,20100914,7942,C150-2LB,Justice Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1843,20100914,7943,C136-5LB,Colombia French Roast Coffee - 5 pound,2,49.95,5,9/27/2010 4:31,x
+1843,20100914,7943,C152-5LB,Critical Mass Blend French Roast Coffee - 5 pound,2,49.95,5,9/27/2010 4:31,x
+1843,20100914,7943,C155-5LB,BRAG Brew Viennese Roast Coffee - 5 pound,2,49.95,5,9/27/2010 4:31,x
+1843,20100914,7944,C118-5LB,Ethiopia Yirgacheffe Medium Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1843,20100914,7945,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1843,20100914,7945,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1843,20100915,7946,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1843,20100915,7946,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1843,20100915,7947,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1843,20100915,7947,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1843,20100915,7947,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1843,20100915,7948,C139-1LB,East Timor French Roast Coffee - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1843,20100915,7948,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1843,20100915,7948,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1844,20100915,7950,C136-5LB,Colombia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1844,20100915,7950,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1844,20100915,7951,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1844,20100915,7951,C172-2LB,Decaf Espresso Blend Full City Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1844,20100915,7952,C172-1LB,Decaf Espresso Blend Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1844,20100915,7952,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1844,20100915,7953,C166-1LB,Half Caff Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1844,20100915,7954,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1844,20100915,7955,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1844,20100915,7956,C131-2LB,Nicaragua French Roast Coffee - 2 pound,4,20.95,2,9/27/2010 4:31,x
+1844,20100915,7956,C124-2LB,Mexico Full City Roast Coffee - 2 pound,2,19.95,2,9/27/2010 4:31,x
+1844,20100916,7957,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1844,20100916,7957,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1845,20100916,7958,C152-2LB,Critical Mass Blend French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1845,20100916,7959,C152-1LB,Critical Mass Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1845,20100916,7959,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1845,20100916,7959,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1845,20100916,7959,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1845,20100916,7960,C124-5LB,Mexico Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1845,20100916,7960,C117-5LB,El Salvador Viennese Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1846,20100916,7963,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1846,20100916,7964,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1846,20100916,7965,C151-2LB,Benevolent Blend Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1846,20100916,7965,C123-2LB,Sumatra Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1846,20100916,7965,C182-2LB,Mocha Java Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1846,20100916,7967,C118-1LB,Ethiopia Yirgacheffe Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1846,20100916,7967,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1846,20100916,7967,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1846,20100916,7967,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100917,7969,C152-2LB,Critical Mass Blend French Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1850,20100918,7972,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100918,7972,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100918,7972,C155-1LB,BRAG Brew Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100918,7973,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100918,7973,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100918,7973,C154-1LB,Mondo Kawan Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100918,7973,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100918,7974,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100918,7974,C172-1LB,Decaf Espresso Blend Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1850,20100918,7975,C165-2LB,Half Caff Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1850,20100919,7977,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1850,20100919,7978,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1850,20100919,7979,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1850,20100919,7980,C165-2LB,Half Caff Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1850,20100919,7981,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100919,7982,C156-1LB,GA Organics Special Blend Medium Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100919,7982,C159-1LB,Maty's Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100919,7983,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1850,20100919,7983,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100919,7983,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100919,7983,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1850,20100919,7983,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1850,20100920,7984,C137-5LB,Bolivia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1850,20100920,7984,C172-2LB,Decaf Espresso Blend Full City Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1850,20100920,7985,C151-2LB,Benevolent Blend Medium Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1851,20100920,7986,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1851,20100920,7986,C123-1LB,Sumatra Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1851,20100920,7986,C122-2LB,Guatemala Full City Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1851,20100920,7986,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1851,20100920,7987,C111-5LB,Nicaragua Medium Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1851,20100920,7988,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1851,20100920,7988,C122-1LB,Guatemala Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1851,20100920,7989,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1851,20100920,7989,C162-1LB,Easygoing Espresso Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1851,20100920,7991,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1851,20100921,7992,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1851,20100921,7992,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1852,20100921,7993,C152-5LB,Critical Mass Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1852,20100921,7993,C153-5LB,Mad Poet Blend Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1852,20100921,7993,C126-5LB,Uganda Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1852,20100921,7995,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1852,20100921,7995,C171-5LB,House Blend Decaf French Roast Coffee - 5 pound,1,54.95,5,9/27/2010 4:31,x
+1852,20100921,7997,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,2,21.95,2,9/27/2010 4:31,x
+1852,20100921,7998,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1852,20100921,7998,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1852,20100921,7999,C150-2LB,Justice Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1852,20100921,7999,C155-2LB,BRAG Brew Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1852,20100921,8000,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1852,20100921,8000,C139-1LB,East Timor French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1852,20100921,8001,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1852,20100921,8001,C126-2LB,Uganda Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1852,20100921,8001,C153-2LB,Mad Poet Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1852,20100921,8002,C159-2LB,Maty's Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1852,20100921,8002,C179-1LB,Type A Espresso Blend French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1852,20100921,8002,C150-2LB,Justice Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1852,20100921,8002,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1853,20100922,8003,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1853,20100922,8004,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1853,20100922,8004,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1853,20100922,8004,C116-1LB,Colombia Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1853,20100922,8005,C136-2LB,Colombia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1853,20100922,8005,C171-2LB,House Blend Decaf French Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1853,20100922,8006,C182-1LB,Mocha Java Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1853,20100922,8006,C136-5LB,Colombia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1853,20100922,8007,C136-5LB,Colombia French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1853,20100922,8008,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1853,20100922,8008,C117-1LB,El Salvador Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1853,20100922,8008,C137-1LB,Bolivia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1853,20100922,8008,C144-1LB,Brazil Viennese Roast - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1853,20100922,8008,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1853,20100922,8009,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1853,20100922,8009,C150-1LB,Justice Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1854,20100923,8010,C151-2LB,Benevolent Blend Medium Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1854,20100923,8010,C151-5LB,Benevolent Blend Medium Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1854,20100923,8010,C151-1LB,Benevolent Blend Medium Roast Coffee - 1 pound,10,10.95,1,9/27/2010 4:31,x
+1854,20100923,8011,C116-1LB,Colombia Medium Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1854,20100923,8011,C111-1LB,Nicaragua Medium Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1854,20100923,8012,C157-5LB,Georgia River Network Blend Viennese Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1854,20100923,8013,C129-1LB,Peru Viennese Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1854,20100923,8013,C171-1LB,House Blend Decaf French Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1854,20100923,8014,C156-5LB,GA Organics Special Blend Medium Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1854,20100923,8015,C123-2LB,Sumatra Viennese Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1854,20100923,8015,C139-2LB,East Timor French Roast Coffee - 2 pound,2,20.95,2,9/27/2010 4:31,x
+1854,20100923,8015,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1855,20100924,8016,C160-5LB,Original Espresso Blend Medium Roast Coffee - 5 pound,2,49.95,5,9/27/2010 4:31,x
+1855,20100924,8017,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1855,20100924,8017,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1855,20100924,8017,C126-1LB,Uganda Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1855,20100924,8017,C183-1LB,Sweet Auburn Blend Full City Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1855,20100924,8017,C153-1LB,Mad Poet Blend Viennese Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1855,20100924,8018,C165-2LB,Half Caff Blend Full City Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1855,20100924,8018,C170-2LB,House Blend Decaf Full City Roast Coffee - 2 pound,1,21.95,2,9/27/2010 4:31,x
+1855,20100924,8018,C156-2LB,GA Organics Special Blend Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1855,20100924,8019,C136-1LB,Colombia French Roast Coffee - 1 pound,1,10.95,1,9/27/2010 4:31,x
+1855,20100924,8019,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1855,20100924,8020,C116-1LB,Colombia Medium Roast Coffee - 1 pound,2,10.45,1,9/27/2010 4:31,x
+1855,20100925,8021,C157-2LB,Georgia River Network Blend Viennese Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1855,20100925,8021,C124-1LB,Mexico Full City Roast Coffee - 1 pound,1,10.45,1,9/27/2010 4:31,x
+1855,20100926,8022,C152-5LB,Critical Mass Blend French Roast Coffee - 5 pound,1,49.95,5,9/27/2010 4:31,x
+1855,20100926,8023,C118-2LB,Ethiopia Yirgacheffe Medium Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1855,20100926,8023,C116-2LB,Colombia Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1855,20100926,8023,C111-2LB,Nicaragua Medium Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1855,20100926,8024,C116-5LB,Colombia Medium Roast Coffee - 5 pound,1,47.95,5,9/27/2010 4:31,x
+1855,20100926,8025,C124-5LB,Mexico Full City Roast Coffee - 5 pound,1,47.45,5,9/27/2010 4:31,x
+1855,20100926,8026,C144-2LB,Brazil Viennese Roast - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1855,20100926,8026,C144-1LB,Brazil Viennese Roast - 1 pound,2,10.95,1,9/27/2010 4:31,x
+1855,20100926,8026,C170-1LB,House Blend Decaf Full City Roast Coffee - 1 pound,1,11.25,1,9/27/2010 4:31,x
+1855,20100926,8027,C117-2LB,El Salvador Viennese Roast Coffee - 2 pound,1,19.95,2,9/27/2010 4:31,x
+1855,20100926,8027,C137-2LB,Bolivia French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x
+1855,20100926,8027,C139-2LB,East Timor French Roast Coffee - 2 pound,1,20.95,2,9/27/2010 4:31,x

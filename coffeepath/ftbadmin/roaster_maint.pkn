@@ -1,0 +1,255 @@
+<?php
+ 
+   session_start();
+require("../connection.php"); 
+ 
+
+ 
+ require("LogInFunctions.php");
+  require("phpclasses.php");
+
+
+ 
+$trace1 = $HTTP_POST_VARS['trace1'];
+$update = $HTTP_POST_VARS['update'];
+
+$roaster =  $HTTP_GET_VARS['roaster'];
+$rst_id = $roaster;
+$roaster_hidden =  $HTTP_POST_VARS['hidden_rst_id'];
+ 
+$rst_id = $HTTP_SESSION_VARS['rst_id'];
+ 
+ 	
+
+$test = "Just before update button check: $update"; 
+
+$Coop = "";
+if ($update == 'Update' && strlen(rst_id) > 0) {
+  $test = "The update button was pushed";
+  
+         $roaster_name = $HTTP_POST_VARS['roaster_name'];
+         $contact = $HTTP_POST_VARS['contact'];	
+         $content = $HTTP_POST_VARS['content'];
+         $link_to_site = $HTTP_POST_VARS['link_to_site'];
+         $organic_cert_link = $HTTP_POST_VARS['organic_cert_link'];
+         $partner_since = $HTTP_POST_VARS['partner_since'];
+         $coop_id = $HTTP_POST_VARS['coop_id'];
+         $directory = $HTTP_POST_VARS['directory'];
+
+  
+  	 mysql_select_db('trf_roaster_content');
+
+ 
+      $query = " update trf_roaster_content 
+                    set roaster_name =  '$roaster_name', 
+                        contact = '$contact',
+                        content = '$content',
+                        link_to_site = '$link_to_site',
+                        organic_cert_link = '$organic_cert_link',
+                        partner_since = '$partner_since',
+                        coop_id = '$coop_id',
+                        directory = '$directory'                         
+                where ft_id =  $rst_id;";
+           
+    # echo "<br>$query <br>";           
+                
+      $update_lot = mysql_query($query, $db_conn);
+      
+    
+}	
+
+
+ 
+ 
+
+
+
+if (strlen($rst_id)) {
+mysql_select_db('trf_roaster_content');
+  
+ # $rst_id = "1";
+  $query = "select * 
+            from trf_roaster_content
+             where ft_id =  $rst_id;";
+
+
+ # echo '<br>'.$query.'<br>';
+
+# retrieve information:
+  $result = mysql_query($query, $db_conn);
+  $num_results = mysql_num_rows($result);
+
+
+# prepare to extract
+  $row = mysql_fetch_array($result);
+ $roaster_name = $row['roaster_name'];
+ $contact = $row['contact'];
+ $content = $row['content'];
+ $link_to_site = $row['link_to_site'];
+ $organic_cert_link = $row['organic_cert_link'];
+ $partner_since = $row['partner_since'];
+ $coop_id = $row['coop_id'];
+ $directory = $row['directory'];
+
+
+}
+
+function customerdropdown($company = "")
+	{
+
+
+   $db_conn = mysql_connect('mysql9.siteprotect.com', 'greenbeans', 'annh401');
+   mysql_select_db('greenbeans', $db_conn);
+
+   if (!$db_conn)
+   {
+     echo 'Error: Could not connect to database.  Please try again later.';
+     exit;
+   }
+
+
+ //mysql_select_db('coop_contact');
+  	echo  " \n ";
+   global $tbl_coop_contact;
+   $query = "SELECT * From coop_contact where type='C'order by Company";
+
+	$ddresults = mysql_query($query, $db_conn);
+    if (!$ddresults)
+    { echo "too bad too sad"; }
+
+	$ddrow = mysql_fetch_array($ddresults);
+   $ddnum_results = mysql_num_rows($ddresults);
+
+   echo '<select name="coop_id">';
+   echo '<br><option value="">';
+   echo "\n";
+      for ($i=0; $i <$ddnum_results; $i++)
+ {
+      echo '<option value="'.$ddrow['contact_id'].'"  ';
+      if ($company == $ddrow['contact_id'])
+      {
+         echo ' selected ';
+      }
+      echo ' >'.$ddrow['Company'];
+      echo "\n";
+
+
+   $ddrow = mysql_fetch_array($ddresults);
+   $ddnum_results = mysql_num_rows($ddresults);
+
+   }
+        echo "</select>";
+
+}
+ 
+?>
+
+
+ 
+<HTML>
+<HEAD>
+    <TITLE>Roaster Maint page</TITLE>
+  
+<meta name="description" content="Coffee Path is maintained by Cooperative Coffees">
+
+<meta name="keywords" content="freetrade, cooperative coffees ">
+
+  
+
+<link rel="stylesheet" type="text/css" href="../default.css">
+
+<style>
+#input_box1 { background-color:yellow; }
+#input_box2 { background-color:yellow; }
+</style>
+
+</HEAD>
+<BODY BGCOLOR="#000000" text="ececec" link="F76B08" alink="ffffff" vlink="ececec" background="images/bg.gif" bgproperties="fixed">
+
+
+<center>
+<?php
+
+echo "<form name=frmMain method=post action='roaster_maint.php'>";
+
+?>
+<table width=100%>
+<tr>
+<td>
+ <div class="greyone">
+  COFFEE <br> PATH
+ </div>
+ </td>
+<td>
+ 
+<INPUT TYPE="SUBMIT" id="update" name="update" VALUE="Update" class="ccbtn"> 
+ </td>
+ <td>
+&nbsp;
+ </td>
+ <td>
+ <div class="corners">
+ Our black background minimizes <br>energy, reducing climate change
+ <p>
+  </div>
+  <div class="corners">
+  Coffee Path is maintained by Cooperative Coffees 
+</div>
+ </td>
+ </tr>
+ </table>
+ <p>
+ 
+ 
+<hr>
+ 
+  
+ 
+ <div class="whiteone">
+<?php 
+#echo " type is $type <br>";
+  echo "query is  $query <br>";
+    echo "rstP_id is  $rst_id ";
+    
+   echo "roaster is  $roaster <br>";
+   echo "roaster hidden = $roaster_hidden <br>";
+    
+    
+if (isset($trace1)) {
+ #  echo "You pushed the button that says: '$trace1' <br>";
+   $type = 'Roaster';
+}
+
+if (isset($trace2)) {
+ # echo "You pushed the button '$trace2' <br>";
+  $type = 'Coop';
+}
+
+# echo "<br>roaster id of test are:  $rst_id <br>";
+echo "</div>";
+
+
+ 
+$SetNav = new myNav($HTTP_SESSION_VARS['user_type']);
+$SetNav->displayNav(); 
+   
+          $SetNav->displayRoasterForm("roaster",$rst_id)
+     
+     
+      
+
+                
+              ?>   
+
+  
+
+
+
+
+
+ 
+ 
+
+</form>
+</BODY>
+</HTML>

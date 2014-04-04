@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Test Hello World</title>
+
+
+<script language="Javascript">
+var newwindow;
+function poptastic(url)
+{
+ // was h=300, w650
+	newwindow=window.open(url,'help','height=450,width=800,resizable=yes,scrollbars=yes,left=300,top=150');
+	if (window.focus) {newwindow.focus()}
+}
+</script>
+</head>
+<body>
+ 
+ <p>
+ <table width=100%>
+ </tr>
+ <td>
+ Two Type of Links:
+ 
+ Text Links:<br>
+ 
+ 
+ 
+<a href="javascript:poptastic('sample.php?ft_id=1');">
+Follow the Bean from Alternative Grounds
+ </a>
+ <p>
+ and image links such as:
+ <br>
+ Follow the 
+ <a href="javascript:poptastic('sample.php?ft_id=1');">
+ 
+ <img src="single_bean.png" BORDER=0  align="top" alt="Type one" >  
+ 
+ </a>
+ 
+ <br>
+ <a href='edit_sample.php?ft_id=1' target='_blank'> Click here to Edit Alternative Grounds. </a>
+ </td>
+ 
+ <td>
+ Links can be changed very easy:
+ <br>
+ <a href="javascript:poptastic('sample.php?ft_id=2');">
+Bongo Java
+ </a>
+ <p>
+ and 
+  <a href="javascript:poptastic('sample.php?ft_id=2');">
+ <img src="single_bean.png" align="top"   BORDER=0 alt="Follow the Bean" >  
+ </a>
+ 
+  <br>
+ <a href='edit_sample.php?ft_id=2' target='_blank'> Edit Bong Java </a>
+ 
+ </td>
+ 
+ 
+ <td>
+ And More examples: <br>
+ <a href="javascript:poptastic('sample.php?ft_id=3');">
+  Peace Coffee
+ </a>
+ <p>
+  <a href="javascript:poptastic('sample.php?ft_id=3');">
+ <img src="single_bean.png" align="top"  BORDER=0  alt="Follow the Bean" >  
+ 
+ </a>
+ 
+  <br>
+ <a href='edit_sample.php?ft_id=3' target='_blank'> Edit Peace Coffee </a>
+ </td>
+ 
+ 
+ 
+ 
+ 
+ <td>
+ All this can be done with a small amount of code:<br>
+ <a href="javascript:poptastic('sample.php?ft_id=4');">
+Cooperative Coffees 
+ </a>
+ <br>
+  <a href="javascript:poptastic('sample.php?ft_id=4');">
+
+ <img src="single_bean.png" align="top"  BORDER=0  alt="Follow the Bean" >  
+ 
+ </a>
+  <br>
+ <a href='edit_sample.php?ft_id=4' target='_blank'> Edit </a>
+ </td>
+ </tr>
+ 
+ <tr>
+ <td colspan=4>
+ Step One you You must put this code in the heading of the web page:
+ <br>
+ <textarea rows="10" cols="110">
+ 
+ <script language="Javascript">
+var newwindow;
+function poptastic(url)
+{
+	newwindow=window.open(url,'help','height=450,width=800,resizable=yes,scrollbars=yes,left=300,top=150');
+	if (window.focus) {newwindow.focus()}
+}
+</script>
+</textarea>
+ </td>
+  </tr>
+  
+  
+  <tr>
+  <td colspan=2>
+  Then you want to add a text link you would use this code:
+  <br>
+   <textarea rows="4" cols="55">
+   <a href="javascript:poptastic('sample.php?ft_id=4');">
+This is a text link:
+ </a>
+ </textarea>
+  </td>
+  
+  <td colspan=2>
+    This is a image link: <br>
+ <textarea rows="4" cols="65">
+ <a href="javascript:poptastic('sample.php?ft_id=4');">
+ <img src="single_bean.png" align="top" BORDER=0 alt="FTB" > 
+ </a>
+ </textarea>
+  </td>
+  
+  </tr>
+ </table>
+ 
+</body>
+</html>

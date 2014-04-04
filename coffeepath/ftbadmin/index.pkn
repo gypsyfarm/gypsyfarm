@@ -1,0 +1,191 @@
+<?php
+ 
+ 
+ session_start();
+# $ReadMe = "Start<br>";
+ 
+ if ($HTTP_GET_VARS['logout'] == "yes" ) {
+ 	$debug .= "Doing the unset and log out function / if statement <br>";
+ 	unset($HTTP_POST_VARS['userid']);
+ 	unset($HTTP_POST_VARS['password']);
+ 	unset($HTTP_SESSION_VARS['valid_user']);
+        unset($HTTP_SESSION_VARS['contact_id']);
+        unset($HTTP_SESSION_VARS['auth_contact_id']);
+        unset($HTTP_SESSION_VARS['user_type']);
+        unset($HTTP_SESSION_VARS['userid']);
+}
+ 
+ require("LogInFunctions.php");
+  require("phpclasses.php");
+
+ 
+ 
+$trace1 = $HTTP_POST_VARS['trace1'];
+$SetBtn = $HTTP_POST_VARS['SetBtn'];
+
+$Coop = "";
+if ($submit == 'Submit') {
+  $test = "test";	
+    
+}	
+
+
+ 
+?>
+
+
+ 
+<HTML>
+<HEAD>
+    <TITLE>Index page</TITLE>
+  
+<meta name="description" content="Fair Trade Proof is maintained by Cooperative Coffees">
+
+<meta name="keywords" content="freetrade, cooperative coffees ">
+
+  
+
+<link rel="stylesheet" type="text/css" href="../default.css">
+
+<style>
+#input_box1 { background-color:yellow; }
+#input_box2 { background-color:yellow; }
+</style>
+
+</HEAD>
+<BODY BGCOLOR="#000000" text="ececec" link="F76B08" alink="ffffff" vlink="ececec" background="images/bg.gif" bgproperties="fixed">
+
+
+<center>
+
+<?php
+
+            if (! ISSET($HTTP_SESSION_VARS['rst_id'])) {
+            	                 	
+            	    if ($HTTP_SESSION_VARS['user_type'] == "1") {
+    	
+    	                $db_conn = mysql_connect('ldb105.siteprotect.com', 'coffeepathdata', 'cafe725');
+                         mysql_select_db('coffeepathdata', $db_conn);
+                         
+                         if (!$db_conn) {
+                              echo 'Error: Could not connect to coffeepathdata database.  Please try again later.';
+                              exit;
+                         }
+                         
+                         $query = "select ft_id, coop_id 
+                                     from trf_roaster_content
+                                     where coop_id = '".$HTTP_SESSION_VARS['contact_id']."'";
+                                     
+                         $ReadMe = $ReadMe + "<br>" + $query;            
+                                     
+                         $result2 = mysql_query($query, $db_conn);
+                         if (mysql_num_rows($result2) >0 ) {
+                             $row2 = mysql_fetch_array($result2);
+                             $HTTP_SESSION_VARS['rst_id'] = $row2['ft_id'];
+                         	
+                          }
+                   }   
+            }
+
+            
+?>      
+        
+<table  width=100%>
+<tr>    
+<td>    
+ <div class="grey_heading2">
+FAIR TRADE PROOF
+ </div> 
+ </td>  
+<td>    
+ 
+&nbsp;
+ </td>
+ <td>
+&nbsp;
+ </td>
+ <td>
+ <div class="corners floatr">
+  Fair Trade Proof is maintained by Cooperative Coffees<br>
+ Our black background minimizes  <br>
+ energy, reducing climate change
+   </div>
+ 
+ </td>
+ </tr>
+ </table>
+ <p>
+ 
+ 
+<hr>
+ 
+  
+
+<?php 
+
+echo '<div class="whiteone">';
+echo "</div>";
+
+/*
+echo "<br>roaster id of test are:  $rst_id <br>";
+echo "<br>user is $user_type ";
+echo "<br>rst_id = $rst_id <br>";
+echo "<br> query = $debug <br>";
+echo "<br> Welcome: ".$HTTP_SESSION_VARS['valid_user']."<br>";
+
+*/
+ 
+$SetNav = new myNav($HTTP_SESSION_VARS['user_type']);
+
+          
+          #  echo "<br>Set = $SetBtn and ".$HTTP_POST_VARS['roaster'];
+            if ($SetBtn == "Set" && ISSET($HTTP_POST_VARS['roaster'])) {
+                 $HTTP_SESSION_VARS['rst_id'] = $HTTP_POST_VARS['roaster'];
+                 $rst_id = $HTTP_SESSION_VARS['rst_id']; }
+            else {  
+            	$rst_id = $HTTP_SESSION_VARS['rst_id'];   	
+            }
+        
+        
+            if ($SetBtn == "Set" && ISSET($HTTP_POST_VARS['coop'])) {
+                 $HTTP_SESSION_VARS['coop_id'] = $HTTP_POST_VARS['coop'];
+                 $coop_id = $HTTP_SESSION_VARS['coop_id']; }
+             else {    
+                 $coop_id = $HTTP_SESSION_VARS['coop_id']; 
+            }
+    
+       
+            $SetNav->setRstId($rst_id);
+            $SetNav->setCoopId($coop_id);
+            
+            $SetNav->displayNav();
+        
+?>
+ 
+
+  <div class="yellow_heading">
+ <br>
+</div> 
+<?php
+
+ 
+
+            echo '<form name="login" method=post action="index.php">';
+            
+           echo "<br> Welcome: ".$HTTP_SESSION_VARS['valid_user']."<br>";
+          # echo "<br>coop_id = ".$HTTP_SESSION_VARS['coop_id']."<br>";
+          # echo "<br>Rst_id = ".$HTTP_SESSION_VARS['rst_id']."<br>";
+           $SetNav->displayLogin($HTTP_SESSION_VARS['user_type']);
+     
+           echo '</form>';
+  
+           echo '</center>';
+
+?>
+
+ 
+ 
+
+ 
+</BODY>
+</HTML>
